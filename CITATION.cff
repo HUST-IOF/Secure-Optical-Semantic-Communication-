@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this software, cite this code release and acknowledge the upstream Promptus project."
+type: software
+title: "Secure optical semantic communication through reconfigurable fiber responses"
+version: 0.1.0
+date-released: 2026-09-19
+authors:
+  - family-names: Ren
+    given-names: Jixing
+    affiliation: Huazhong University of Science and Technology
+  - family-names: Hua
+    given-names: Xuchen
+    affiliation: Huazhong University of Science and Technology
+  - family-names: Wu
+    given-names: Hao
+    email: wuhaoboom@hust.edu.cn
+    affiliation: Huazhong University of Science and Technology; Hubei Optics Valley Laboratory
+  - family-names: Tang
+    given-names: Ming
+    email: tangming@mail.hust.edu.cn
+    affiliation: Huazhong University of Science and Technology; Hubei Optics Valley Laboratory

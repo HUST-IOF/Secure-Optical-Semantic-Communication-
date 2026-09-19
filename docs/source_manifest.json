@@ -1,0 +1,666 @@
+[
+  {
+    "file": "research/secure_inversion_txloss.py",
+    "source_file": "secure_inversion_diff.py",
+    "source_sha256": "66410ecedd69399355d288286498029663e0295cd6246013ba902d64ce5891e0",
+    "source": "remote snapshot",
+    "modifications": "portable paths / environment prefix removed; acquisition discovery patterns corrected to author-confirmed 20km",
+    "release_sha256": "369c988bac2454d61c9ac65fa6e5a994cac93f5ae146dde42e3160d940a652ff"
+  },
+  {
+    "file": "research/secure_inversion_txloss_power_sweep.py",
+    "source_file": "secure_inversion_txloss_power_sweep.py",
+    "source_sha256": "7b11e9959385bf93ada4d00d2337eaaa9e5549ea8112394e880219f57c66d02d",
+    "source": "remote snapshot",
+    "modifications": "portable paths / environment prefix removed; acquisition discovery patterns corrected to author-confirmed 20km",
+    "release_sha256": "907f3faba6f84a2e1d5ca4c41ea95e717857e43e8dd89df6cd7b133114f324f2"
+  },
+  {
+    "file": "research/attack_gated_tcn.py",
+    "source_file": "f2z_partial_known_prompt_attack_gated_pointwise_tcn.py",
+    "source_sha256": "6e99f8e479a14617aa5faa95f07da479dd7e2a0491e57bdb4a9ae6674de943fc",
+    "source": "remote snapshot",
+    "modifications": "portable paths / environment prefix removed; default sample data directory points to public measured subset; acquisition discovery patterns corrected to author-confirmed 20km",
+    "release_sha256": "4487cbb663dba18b92d13347d299036ee8316e04a9c70da922cb297b566dbf22"
+  },
+  {
+    "file": "research/receiver_runtime_comparison.py",
+    "source_file": "receiver_runtime_comparison.py",
+    "source_sha256": "cd5d39e8c95e1765aab8cb60162cd1a3f033546ba1be99090257ab7dbb58fa96",
+    "source": "remote snapshot",
+    "modifications": "portable paths / environment prefix removed",
+    "release_sha256": "cd5d39e8c95e1765aab8cb60162cd1a3f033546ba1be99090257ab7dbb58fa96"
+  },
+  {
+    "file": "research/run_generation_and_eval_attack.py",
+    "source_file": "run_generation_and_eval_attack.py",
+    "source_sha256": "1e0d0e306b43694e1093ec4fb054d9458a39f0c3332fc58b4141951faaa7511e",
+    "source": "remote snapshot",
+    "modifications": "portable paths / environment prefix removed; configurable --leak_counts instead of hardcoded N=250",
+    "release_sha256": "38280368ea16ed57a8124bda0c19fd0229dcc3abeb9a2a602d6277768c3a5d10"
+  },
+  {
+    "file": "research/generation.py",
+    "source_file": "generation.py",
+    "source_sha256": "e205bc7e0869b77c5d53b86fbeb4c2c936cf75856ea91906e94fa852f0c9b929",
+    "source": "remote snapshot",
+    "modifications": "portable paths / environment prefix removed; load CPU-saved prompts and init tensor onto CUDA explicitly",
+    "release_sha256": "12e8d8c3b2373ab947f9fc44168aa320d4894de28bbaa6d6fe5c1af53aace4ad"
+  },
+  {
+    "file": "research/lossbuilder.py",
+    "source_file": "lossbuilder.py",
+    "source_sha256": "ffcfcc78640ea0cb7c3bb9951899827f625e0a7649fde6b5285e38b3e5ee3685",
+    "source": "remote snapshot",
+    "modifications": "portable paths / environment prefix removed",
+    "release_sha256": "ffcfcc78640ea0cb7c3bb9951899827f625e0a7649fde6b5285e38b3e5ee3685"
+  },
+  {
+    "file": "research/quantization.py",
+    "source_file": "quantization.py",
+    "source_sha256": "dd6b414fd0faef182b88bad2dd1806ef9ce40ef3090d261a200695dbe2ccb295",
+    "source": "remote snapshot",
+    "modifications": "portable paths / environment prefix removed",
+    "release_sha256": "dd6b414fd0faef182b88bad2dd1806ef9ce40ef3090d261a200695dbe2ccb295"
+  },
+  {
+    "file": "research/ReflectionCreation/f2VEC.py",
+    "source_file": "f2VEC.py",
+    "source_sha256": "c8f391920fff27d656e368ab3cc3f1f6b6d84c923acdfd68a89d4c5f5a74627e",
+    "source": "remote snapshot",
+    "modifications": "none",
+    "release_sha256": "c8f391920fff27d656e368ab3cc3f1f6b6d84c923acdfd68a89d4c5f5a74627e"
+  },
+  {
+    "file": "LICENSE",
+    "source_file": "LICENSE",
+    "source_sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4",
+    "source": "local Promptus snapshot",
+    "modifications": "none",
+    "release_sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4"
+  },
+  {
+    "file": "research/environment.reference.yml",
+    "source_file": "environment.yml",
+    "source_sha256": "49f27e19bff5147c6452fc42333239bf5a1bd640026a4e7277ba48671296401a",
+    "source": "local Promptus snapshot",
+    "modifications": "portable paths / environment prefix removed",
+    "release_sha256": "035231f0873380db74a294526b101145b733bda4b90178572ef765151b66204d"
+  },
+  {
+    "file": "research/sgm/lr_scheduler.py",
+    "source_file": "lr_scheduler.py",
+    "source_sha256": "b6fbd8bbaeda2bf1384c538b34ce7909291d85ba9363494efd88b2898be8aade",
+    "source": "local Promptus snapshot",
+    "modifications": "none",
+    "release_sha256": "b6fbd8bbaeda2bf1384c538b34ce7909291d85ba9363494efd88b2898be8aade"
+  },
+  {
+    "file": "research/sgm/util.py",
+    "source_file": "util.py",
+    "source_sha256": "90bcac05721c6de439965c1206a6c44755048e08602f61de3636b1cb01c6bf96",
+    "source": "local Promptus snapshot",
+    "modifications": "none",
+    "release_sha256": "90bcac05721c6de439965c1206a6c44755048e08602f61de3636b1cb01c6bf96"
+  },
+  {
+    "file": "research/sgm/__init__.py",
+    "source_file": "__init__.py",
+    "source_sha256": "990b90eb3dbfa0281803b90ef99df2dc5be4fc6f9fcb7e493fdfde2f8b614dcb",
+    "source": "local Promptus snapshot",
+    "modifications": "none",
+    "release_sha256": "990b90eb3dbfa0281803b90ef99df2dc5be4fc6f9fcb7e493fdfde2f8b614dcb"
+  },
+  {
+    "file": "research/sgm/data/cifar10.py",
+    "source_file": "cifar10.py",
+    "source_sha256": "55e6c1680a3fb5760a51c6ad37a830dd724bc0dadf8860c0183fe329349abc3a",
+    "source": "local Promptus snapshot",
+    "modifications": "none",
+    "release_sha256": "55e6c1680a3fb5760a51c6ad37a830dd724bc0dadf8860c0183fe329349abc3a"
+  },
+  {
+    "file": "research/sgm/data/dataset.py",
+    "source_file": "dataset.py",
+    "source_sha256": "8b5fee198127f7358ae480b501bb610b849a02964688f939d65b213189b8561f",
+    "source": "local Promptus snapshot",
+    "modifications": "none",
+    "release_sha256": "8b5fee198127f7358ae480b501bb610b849a02964688f939d65b213189b8561f"
+  },
+  {
+    "file": "research/sgm/data/mnist.py",
+    "source_file": "mnist.py",
+    "source_sha256": "a215f81a46eb373eef2f1caefaa84aa3c23c2820e9478c271cd4fc197e6826cb",
+    "source": "local Promptus snapshot",
+    "modifications": "none",
+    "release_sha256": "a215f81a46eb373eef2f1caefaa84aa3c23c2820e9478c271cd4fc197e6826cb"
+  },
+  {
+    "file": "research/sgm/data/__init__.py",
+    "source_file": "__init__.py",
+    "source_sha256": "31044303a344a30647d6fa4fc0c8025a3cdd587fe76010b04414b592960ae56f",
+    "source": "local Promptus snapshot",
+    "modifications": "none",
+    "release_sha256": "31044303a344a30647d6fa4fc0c8025a3cdd587fe76010b04414b592960ae56f"
+  },
+  {
+    "file": "research/sgm/inference/api.py",
+    "source_file": "api.py",
+    "source_sha256": "2d79b1fd353cf36e5edf7e2ba3ddd4ac2e7631ee5b2f0f61928311b0300b9da0",
+    "source": "local Promptus snapshot",
+    "modifications": "none",
+    "release_sha256": "2d79b1fd353cf36e5edf7e2ba3ddd4ac2e7631ee5b2f0f61928311b0300b9da0"
+  },
+  {
+    "file": "research/sgm/inference/helpers.py",
+    "source_file": "helpers.py",
+    "source_sha256": "6371217d8d81dd0720470ced8beb2c9dbe753841937b339b261fd208b0a8774d",
+    "source": "local Promptus snapshot",
+    "modifications": "none",
+    "release_sha256": "6371217d8d81dd0720470ced8beb2c9dbe753841937b339b261fd208b0a8774d"
+  },
+  {
+    "file": "research/sgm/models/autoencoder.py",
+    "source_file": "autoencoder.py",
+    "source_sha256": "d41e276cf5e8ec580bbf35ceb973073ed2ce9e5e70666e326881b0618049cdaa",
+    "source": "local Promptus snapshot",
+    "modifications": "none",
+    "release_sha256": "d41e276cf5e8ec580bbf35ceb973073ed2ce9e5e70666e326881b0618049cdaa"
+  },
+  {
+    "file": "research/sgm/models/diffusion.py",
+    "source_file": "diffusion.py",
+    "source_sha256": "0b7e41c799dc135b43e907c2cafd555676d99a0cfcc715efb44804bb03924a3b",
+    "source": "local Promptus snapshot",
+    "modifications": "none",
+    "release_sha256": "0b7e41c799dc135b43e907c2cafd555676d99a0cfcc715efb44804bb03924a3b"
+  },
+  {
+    "file": "research/sgm/models/__init__.py",
+    "source_file": "__init__.py",
+    "source_sha256": "b0d94f5ee2f07286846dba10f472f6e42c2b8c72cc4e9db25d202fe5ac8ff095",
+    "source": "local Promptus snapshot",
+    "modifications": "none",
+    "release_sha256": "b0d94f5ee2f07286846dba10f472f6e42c2b8c72cc4e9db25d202fe5ac8ff095"
+  },
+  {
+    "file": "research/sgm/modules/attention.py",
+    "source_file": "attention.py",
+    "source_sha256": "0bf0b4ccbe978c1d94f132a777331d15774d982ff51ba819b0bb593937dc5121",
+    "source": "local Promptus snapshot",
+    "modifications": "none",
+    "release_sha256": "0bf0b4ccbe978c1d94f132a777331d15774d982ff51ba819b0bb593937dc5121"
+  },
+  {
+    "file": "research/sgm/modules/ema.py",
+    "source_file": "ema.py",
+    "source_sha256": "51f0a240a0fd3ac021277a189e5c2c8353218e1e29bbc1592b69afb48d8acab2",
+    "source": "local Promptus snapshot",
+    "modifications": "none",
+    "release_sha256": "51f0a240a0fd3ac021277a189e5c2c8353218e1e29bbc1592b69afb48d8acab2"
+  },
+  {
+    "file": "research/sgm/modules/video_attention.py",
+    "source_file": "video_attention.py",
+    "source_sha256": "3ee8d41ad88b11c12a52f6bdb4d175fa31ab09a14c89dc76ab6b6f95ba4860b1",
+    "source": "local Promptus snapshot",
+    "modifications": "none",
+    "release_sha256": "3ee8d41ad88b11c12a52f6bdb4d175fa31ab09a14c89dc76ab6b6f95ba4860b1"
+  },
+  {
+    "file": "research/sgm/modules/__init__.py",
+    "source_file": "__init__.py",
+    "source_sha256": "2e1acca89d60eddcf12de77d83b713a26f9124c97f259249b670879248cb57da",
+    "source": "local Promptus snapshot",
+    "modifications": "none",
+    "release_sha256": "2e1acca89d60eddcf12de77d83b713a26f9124c97f259249b670879248cb57da"
+  },
+  {
+    "file": "research/sgm/modules/autoencoding/temporal_ae.py",
+    "source_file": "temporal_ae.py",
+    "source_sha256": "f87ac875dd8e3fbf0d95fa7475cbce17bfefc0295c3e913111a3f12392b41c32",
+    "source": "local Promptus snapshot",
+    "modifications": "none",
+    "release_sha256": "f87ac875dd8e3fbf0d95fa7475cbce17bfefc0295c3e913111a3f12392b41c32"
+  },
+  {
+    "file": "research/sgm/modules/autoencoding/__init__.py",
+    "source_file": "__init__.py",
+    "source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "source": "local Promptus snapshot",
+    "modifications": "none",
+    "release_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "file": "research/sgm/modules/diffusionmodules/denoiser.py",
+    "source_file": "denoiser.py",
+    "source_sha256": "3be9c7160791dda06eee16a7e96a588f6a876e13ec4f85c32596c924805a9035",
+    "source": "local Promptus snapshot",
+    "modifications": "none",
+    "release_sha256": "3be9c7160791dda06eee16a7e96a588f6a876e13ec4f85c32596c924805a9035"
+  },
+  {
+    "file": "research/sgm/modules/diffusionmodules/denoiser_scaling.py",
+    "source_file": "denoiser_scaling.py",
+    "source_sha256": "9a0c497f912308c6677d9875dc2501969026e40c6ac7b74f5529e275d1edc710",
+    "source": "local Promptus snapshot",
+    "modifications": "none",
+    "release_sha256": "9a0c497f912308c6677d9875dc2501969026e40c6ac7b74f5529e275d1edc710"
+  },
+  {
+    "file": "research/sgm/modules/diffusionmodules/denoiser_weighting.py",
+    "source_file": "denoiser_weighting.py",
+    "source_sha256": "bdf96b7e5d34db74f27210b509bf60239fb618bf81f048005633d293699d76a9",
+    "source": "local Promptus snapshot",
+    "modifications": "none",
+    "release_sha256": "bdf96b7e5d34db74f27210b509bf60239fb618bf81f048005633d293699d76a9"
+  },
+  {
+    "file": "research/sgm/modules/diffusionmodules/discretizer.py",
+    "source_file": "discretizer.py",
+    "source_sha256": "4eee0e70d110245b2dc72602b14bbe20dbc120d5549b4a27999ec56e64bd0be5",
+    "source": "local Promptus snapshot",
+    "modifications": "none",
+    "release_sha256": "4eee0e70d110245b2dc72602b14bbe20dbc120d5549b4a27999ec56e64bd0be5"
+  },
+  {
+    "file": "research/sgm/modules/diffusionmodules/guiders.py",
+    "source_file": "guiders.py",
+    "source_sha256": "245eb72cd96c1de428ba619f6ac23010f9ca59cae1088c982afa73481b3ab233",
+    "source": "local Promptus snapshot",
+    "modifications": "none",
+    "release_sha256": "245eb72cd96c1de428ba619f6ac23010f9ca59cae1088c982afa73481b3ab233"
+  },
+  {
+    "file": "research/sgm/modules/diffusionmodules/loss.py",
+    "source_file": "loss.py",
+    "source_sha256": "81ec23eec9037b14150a9eda1050fbebb2529f2d3a4d0a88d6ea6a4521ad198d",
+    "source": "local Promptus snapshot",
+    "modifications": "none",
+    "release_sha256": "81ec23eec9037b14150a9eda1050fbebb2529f2d3a4d0a88d6ea6a4521ad198d"
+  },
+  {
+    "file": "research/sgm/modules/diffusionmodules/loss_weighting.py",
+    "source_file": "loss_weighting.py",
+    "source_sha256": "bac3b2d85447de4d00f7ed08cf62adbcbbede9072aca201f22149f620cbc1c81",
+    "source": "local Promptus snapshot",
+    "modifications": "none",
+    "release_sha256": "bac3b2d85447de4d00f7ed08cf62adbcbbede9072aca201f22149f620cbc1c81"
+  },
+  {
+    "file": "research/sgm/modules/diffusionmodules/model.py",
+    "source_file": "model.py",
+    "source_sha256": "6d95bd724ab68794601394b8f307e47a03fdd68c12406ef358019decce8eeddd",
+    "source": "local Promptus snapshot",
+    "modifications": "none",
+    "release_sha256": "6d95bd724ab68794601394b8f307e47a03fdd68c12406ef358019decce8eeddd"
+  },
+  {
+    "file": "research/sgm/modules/diffusionmodules/openaimodel.py",
+    "source_file": "openaimodel.py",
+    "source_sha256": "c18fbef733bc9ea65a8f9ba6d835eade2940b836aad2e187703475bda95df92a",
+    "source": "local Promptus snapshot",
+    "modifications": "none",
+    "release_sha256": "c18fbef733bc9ea65a8f9ba6d835eade2940b836aad2e187703475bda95df92a"
+  },
+  {
+    "file": "research/sgm/modules/diffusionmodules/sampling.py",
+    "source_file": "sampling.py",
+    "source_sha256": "9d58b38c62d30e9703fca062c558929b7089562b4ab6e75356902317560437ab",
+    "source": "local Promptus snapshot",
+    "modifications": "none",
+    "release_sha256": "9d58b38c62d30e9703fca062c558929b7089562b4ab6e75356902317560437ab"
+  },
+  {
+    "file": "research/sgm/modules/diffusionmodules/sampling_utils.py",
+    "source_file": "sampling_utils.py",
+    "source_sha256": "d4ea069a5288bdc3af2f2d9510c41d4e03ecf19b5ecba7cc4789fee9f7fd4025",
+    "source": "local Promptus snapshot",
+    "modifications": "none",
+    "release_sha256": "d4ea069a5288bdc3af2f2d9510c41d4e03ecf19b5ecba7cc4789fee9f7fd4025"
+  },
+  {
+    "file": "research/sgm/modules/diffusionmodules/sigma_sampling.py",
+    "source_file": "sigma_sampling.py",
+    "source_sha256": "694989a6febef244d5228b2e363412674870449e7a5b07c7598744dd0ca39dae",
+    "source": "local Promptus snapshot",
+    "modifications": "none",
+    "release_sha256": "694989a6febef244d5228b2e363412674870449e7a5b07c7598744dd0ca39dae"
+  },
+  {
+    "file": "research/sgm/modules/diffusionmodules/util.py",
+    "source_file": "util.py",
+    "source_sha256": "1857ab0175c4119aab14c444a59b1833376eb7d59f7e228a43e14ab399f32d24",
+    "source": "local Promptus snapshot",
+    "modifications": "none",
+    "release_sha256": "1857ab0175c4119aab14c444a59b1833376eb7d59f7e228a43e14ab399f32d24"
+  },
+  {
+    "file": "research/sgm/modules/diffusionmodules/video_model.py",
+    "source_file": "video_model.py",
+    "source_sha256": "d881909a94b8bf03827a488f1bf192b082a9f5a7d093a2b6f2b2a3e1d2def50d",
+    "source": "local Promptus snapshot",
+    "modifications": "none",
+    "release_sha256": "d881909a94b8bf03827a488f1bf192b082a9f5a7d093a2b6f2b2a3e1d2def50d"
+  },
+  {
+    "file": "research/sgm/modules/diffusionmodules/wrappers.py",
+    "source_file": "wrappers.py",
+    "source_sha256": "2e48a351f1c1a5dcaa6e337c2ac616d1f9f5a305736a2c1cb3b7de3ae78a5a58",
+    "source": "local Promptus snapshot",
+    "modifications": "none",
+    "release_sha256": "2e48a351f1c1a5dcaa6e337c2ac616d1f9f5a305736a2c1cb3b7de3ae78a5a58"
+  },
+  {
+    "file": "research/sgm/modules/diffusionmodules/__init__.py",
+    "source_file": "__init__.py",
+    "source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "source": "local Promptus snapshot",
+    "modifications": "none",
+    "release_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "file": "research/sgm/modules/distributions/distributions.py",
+    "source_file": "distributions.py",
+    "source_sha256": "18708d985e0bbe9b0681146297977dce4c0eb4e6dbeea295d88adbfdd950b0b1",
+    "source": "local Promptus snapshot",
+    "modifications": "none",
+    "release_sha256": "18708d985e0bbe9b0681146297977dce4c0eb4e6dbeea295d88adbfdd950b0b1"
+  },
+  {
+    "file": "research/sgm/modules/distributions/__init__.py",
+    "source_file": "__init__.py",
+    "source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "source": "local Promptus snapshot",
+    "modifications": "none",
+    "release_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "file": "research/sgm/modules/encoders/modules.py",
+    "source_file": "modules.py",
+    "source_sha256": "0609d16dbef3c71f20bfbc790b3c9f0fa830d4587056ba701d84e91d4efd54a5",
+    "source": "local Promptus snapshot",
+    "modifications": "none",
+    "release_sha256": "0609d16dbef3c71f20bfbc790b3c9f0fa830d4587056ba701d84e91d4efd54a5"
+  },
+  {
+    "file": "research/sgm/modules/encoders/__init__.py",
+    "source_file": "__init__.py",
+    "source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "source": "local Promptus snapshot",
+    "modifications": "none",
+    "release_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "file": "research/sgm/modules/autoencoding/losses/discriminator_loss.py",
+    "source_file": "discriminator_loss.py",
+    "source_sha256": "2425bc79522ede8afc967c841e9975960c66a50f1ac5e0067bfb9c03bd43dc27",
+    "source": "local Promptus snapshot",
+    "modifications": "none",
+    "release_sha256": "2425bc79522ede8afc967c841e9975960c66a50f1ac5e0067bfb9c03bd43dc27"
+  },
+  {
+    "file": "research/sgm/modules/autoencoding/losses/lpips.py",
+    "source_file": "lpips.py",
+    "source_sha256": "ec3c39770985d7c272d400b094e6021b85565be5662e575ab01cce8e5a62eed8",
+    "source": "local Promptus snapshot",
+    "modifications": "none",
+    "release_sha256": "ec3c39770985d7c272d400b094e6021b85565be5662e575ab01cce8e5a62eed8"
+  },
+  {
+    "file": "research/sgm/modules/autoencoding/losses/__init__.py",
+    "source_file": "__init__.py",
+    "source_sha256": "e6621aa69d1bc78760053954e649055fad79952815ce462eec9fb838fda6dd8e",
+    "source": "local Promptus snapshot",
+    "modifications": "none",
+    "release_sha256": "e6621aa69d1bc78760053954e649055fad79952815ce462eec9fb838fda6dd8e"
+  },
+  {
+    "file": "research/sgm/modules/autoencoding/lpips/util.py",
+    "source_file": "util.py",
+    "source_sha256": "5a6eaa7cf02ff58f3a7ac5373de5c8fe0c1437e050a19767272de5e253b98e47",
+    "source": "local Promptus snapshot",
+    "modifications": "none",
+    "release_sha256": "5a6eaa7cf02ff58f3a7ac5373de5c8fe0c1437e050a19767272de5e253b98e47"
+  },
+  {
+    "file": "research/sgm/modules/autoencoding/lpips/vqperceptual.py",
+    "source_file": "vqperceptual.py",
+    "source_sha256": "f12902c4b4fbaf43b28d40a532f80e932422087cc0699514c85b9338bba802db",
+    "source": "local Promptus snapshot",
+    "modifications": "none",
+    "release_sha256": "f12902c4b4fbaf43b28d40a532f80e932422087cc0699514c85b9338bba802db"
+  },
+  {
+    "file": "research/sgm/modules/autoencoding/lpips/__init__.py",
+    "source_file": "__init__.py",
+    "source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "source": "local Promptus snapshot",
+    "modifications": "none",
+    "release_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "file": "research/sgm/modules/autoencoding/regularizers/base.py",
+    "source_file": "base.py",
+    "source_sha256": "f15c793143643007d2d652725faf9875ba159b40a41d1ef820ffdb3667c0f664",
+    "source": "local Promptus snapshot",
+    "modifications": "none",
+    "release_sha256": "f15c793143643007d2d652725faf9875ba159b40a41d1ef820ffdb3667c0f664"
+  },
+  {
+    "file": "research/sgm/modules/autoencoding/regularizers/quantize.py",
+    "source_file": "quantize.py",
+    "source_sha256": "11a0b1ed4884bd89aa71f8ae0dbeb36ec43310854a5c208b9f3d0daa46310085",
+    "source": "local Promptus snapshot",
+    "modifications": "none",
+    "release_sha256": "11a0b1ed4884bd89aa71f8ae0dbeb36ec43310854a5c208b9f3d0daa46310085"
+  },
+  {
+    "file": "research/sgm/modules/autoencoding/regularizers/__init__.py",
+    "source_file": "__init__.py",
+    "source_sha256": "0a8c247f7d8f2eb5a1c17a223cdf9238c5e80522c39c0c0479d3740475c290ec",
+    "source": "local Promptus snapshot",
+    "modifications": "none",
+    "release_sha256": "0a8c247f7d8f2eb5a1c17a223cdf9238c5e80522c39c0c0479d3740475c290ec"
+  },
+  {
+    "file": "research/sgm/modules/autoencoding/lpips/loss/lpips.py",
+    "source_file": "lpips.py",
+    "source_sha256": "de6da4dcd0338c4d2227e92bf9a638618b260095acf652e22f24944e8d274b49",
+    "source": "local Promptus snapshot",
+    "modifications": "none",
+    "release_sha256": "de6da4dcd0338c4d2227e92bf9a638618b260095acf652e22f24944e8d274b49"
+  },
+  {
+    "file": "research/sgm/modules/autoencoding/lpips/loss/__init__.py",
+    "source_file": "__init__.py",
+    "source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "source": "local Promptus snapshot",
+    "modifications": "none",
+    "release_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "file": "research/sgm/modules/autoencoding/lpips/model/model.py",
+    "source_file": "model.py",
+    "source_sha256": "665e9b1f2b40aae68c3b0a78987dfe2aab16e5f72b1eb978866de77ea67a9dc1",
+    "source": "local Promptus snapshot",
+    "modifications": "none",
+    "release_sha256": "665e9b1f2b40aae68c3b0a78987dfe2aab16e5f72b1eb978866de77ea67a9dc1"
+  },
+  {
+    "file": "research/sgm/modules/autoencoding/lpips/model/__init__.py",
+    "source_file": "__init__.py",
+    "source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "source": "local Promptus snapshot",
+    "modifications": "none",
+    "release_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "file": "research/scripts/__init__.py",
+    "source_file": "__init__.py",
+    "source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "source": "local Promptus snapshot",
+    "modifications": "none",
+    "release_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "file": "research/scripts/demo/__init__.py",
+    "source_file": "__init__.py",
+    "source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "source": "local Promptus snapshot",
+    "modifications": "none",
+    "release_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "file": "research/scripts/demo/streamlit_helpers.py",
+    "source_file": "streamlit_helpers.py",
+    "source_sha256": "6558cae009eb69828148613682ad7ad88b28a52a70ca8ef11071354afa9fc4da",
+    "source": "local Promptus snapshot",
+    "modifications": "none",
+    "release_sha256": "6558cae009eb69828148613682ad7ad88b28a52a70ca8ef11071354afa9fc4da"
+  },
+  {
+    "file": "research/scripts/demo/discretization.py",
+    "source_file": "discretization.py",
+    "source_sha256": "25cdd5ac92b4a3620daf5978425ee0c7ab247fa8abff318dcad724c771776986",
+    "source": "local Promptus snapshot",
+    "modifications": "none",
+    "release_sha256": "25cdd5ac92b4a3620daf5978425ee0c7ab247fa8abff318dcad724c771776986"
+  },
+  {
+    "file": "research/scripts/util/__init__.py",
+    "source_file": "__init__.py",
+    "source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "source": "local Promptus snapshot",
+    "modifications": "none",
+    "release_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "file": "research/scripts/util/detection/__init__.py",
+    "source_file": "__init__.py",
+    "source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "source": "local Promptus snapshot",
+    "modifications": "none",
+    "release_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "file": "research/scripts/util/detection/nsfw_and_watermark_dectection.py",
+    "source_file": "nsfw_and_watermark_dectection.py",
+    "source_sha256": "6e4552e40f41c9ef63eeb93bb869b45856a030a4714b19481b870ca8eb71f8b8",
+    "source": "local Promptus snapshot",
+    "modifications": "none",
+    "release_sha256": "6e4552e40f41c9ef63eeb93bb869b45856a030a4714b19481b870ca8eb71f8b8"
+  },
+  {
+    "file": "research/scripts/util/detection/p_head_v1.npz",
+    "source_file": "p_head_v1.npz",
+    "source_sha256": "b4653a64d5f85d8d4c5f6c5ec175f1c5c5e37db8f38d39b2ed8b5979da7fdc76",
+    "source": "local Promptus snapshot",
+    "modifications": "none",
+    "release_sha256": "b4653a64d5f85d8d4c5f6c5ec175f1c5c5e37db8f38d39b2ed8b5979da7fdc76"
+  },
+  {
+    "file": "research/scripts/util/detection/w_head_v1.npz",
+    "source_file": "w_head_v1.npz",
+    "source_sha256": "b6af23687aa347073e692025f405ccc48c14aadc5dbe775b3312041006d496d1",
+    "source": "local Promptus snapshot",
+    "modifications": "none",
+    "release_sha256": "b6af23687aa347073e692025f405ccc48c14aadc5dbe775b3312041006d496d1"
+  },
+  {
+    "file": "research/configs/inference/sd_2_1.yaml",
+    "source_file": "sd_2_1.yaml",
+    "source_sha256": "0fb03f53a8a7b89287655b5b843cf9d520dac41ce5a6db5c21f716c25b10eb62",
+    "source": "local Promptus snapshot",
+    "modifications": "none",
+    "release_sha256": "0fb03f53a8a7b89287655b5b843cf9d520dac41ce5a6db5c21f716c25b10eb62"
+  },
+  {
+    "file": "research/configs/inference/sd_xl_base.yaml",
+    "source_file": "sd_xl_base.yaml",
+    "source_sha256": "58908df2c3146a9b29b1926d7b9ac933cad81f249b5b1237bf27233b90ad6382",
+    "source": "local Promptus snapshot",
+    "modifications": "none",
+    "release_sha256": "58908df2c3146a9b29b1926d7b9ac933cad81f249b5b1237bf27233b90ad6382"
+  },
+  {
+    "file": "data/measured/Data20260508_20km_70MHz_48deg_2.mat",
+    "source_sha256": "90a7f6045742ae7a6121886481aa9f8393861dcf900815a709051fdbfd9857e4",
+    "source": "remote snapshot",
+    "modifications": "Filename label corrected to author-confirmed 20km; source_label uses corrected label; binary data unchanged",
+    "release_sha256": "90a7f6045742ae7a6121886481aa9f8393861dcf900815a709051fdbfd9857e4",
+    "source_label": "Data20260508_20km_70MHz_48deg_2.mat"
+  },
+  {
+    "file": "data/measured/Data20260508_20km_70MHz_50deg_1.mat",
+    "source_sha256": "0067a9b9e0220f3126e3f2065502f9bed870b190fccd38a1424dce469b8949a2",
+    "source": "remote snapshot",
+    "modifications": "Filename label corrected to author-confirmed 20km; source_label uses corrected label; binary data unchanged",
+    "release_sha256": "0067a9b9e0220f3126e3f2065502f9bed870b190fccd38a1424dce469b8949a2",
+    "source_label": "Data20260508_20km_70MHz_50deg_1.mat"
+  },
+  {
+    "file": "data/measured/Data20260508_20km_70MHz_50deg_2.mat",
+    "source_sha256": "50bb089133e29b9e619948033d4b6f2ac4ff3aa61f3e5aab1ea7bcc53218949f",
+    "source": "remote snapshot",
+    "modifications": "Filename label corrected to author-confirmed 20km; source_label uses corrected label; binary data unchanged",
+    "release_sha256": "50bb089133e29b9e619948033d4b6f2ac4ff3aa61f3e5aab1ea7bcc53218949f",
+    "source_label": "Data20260508_20km_70MHz_50deg_2.mat"
+  },
+  {
+    "file": "data/measured/Dict20260508_20km_70MHz_50deg_1.mat",
+    "source_sha256": "c87e24bd3d1d19c29c1722d4a59bc518d657e16f1ec4fecf46674069b4aaa83a",
+    "source": "remote snapshot",
+    "modifications": "Filename label corrected to author-confirmed 20km; source_label uses corrected label; binary data unchanged",
+    "release_sha256": "c87e24bd3d1d19c29c1722d4a59bc518d657e16f1ec4fecf46674069b4aaa83a",
+    "source_label": "Dict20260508_20km_70MHz_50deg_1.mat"
+  },
+  {
+    "file": "data/published_metrics/attack_metrics_from_conversation.csv",
+    "source_file": "attack_metrics_from_conversation.csv",
+    "source_sha256": "96b00155fc68004b04b7d97dba7f87e4f504022168d934aedbad4363e29c555f",
+    "source": "local Promptus snapshot",
+    "modifications": "none",
+    "release_sha256": "96b00155fc68004b04b7d97dba7f87e4f504022168d934aedbad4363e29c555f"
+  },
+  {
+    "file": "data/published_metrics/lpips_frequency_summary.csv",
+    "source_file": "lpips_frequency_summary.csv",
+    "source_sha256": "f9feab5a70226a7d085beb57c0cbaf2efd44121116bab4f2d432bf217fe2fa82",
+    "source": "local Promptus snapshot",
+    "modifications": "none",
+    "release_sha256": "f9feab5a70226a7d085beb57c0cbaf2efd44121116bab4f2d432bf217fe2fa82"
+  },
+  {
+    "file": "data/published_metrics/lpips_psnr_power_50C_summary.csv",
+    "source_file": "lpips_psnr_power_50C_summary.csv",
+    "source_sha256": "918fcdc1d36eb41cf92420c2b081001f0b96e7b5f53232bef25816fec2de37db",
+    "source": "local Promptus snapshot",
+    "modifications": "none",
+    "release_sha256": "918fcdc1d36eb41cf92420c2b081001f0b96e7b5f53232bef25816fec2de37db"
+  },
+  {
+    "file": "data/historical_timing/receiver_runtime_details.csv",
+    "source_file": "receiver_runtime_details.csv",
+    "source_sha256": "b27b930e7f4952c5b564441140577da4f5e0c206b8b1319473462d7ef0568f4a",
+    "source": "remote snapshot",
+    "modifications": "none",
+    "release_sha256": "b27b930e7f4952c5b564441140577da4f5e0c206b8b1319473462d7ef0568f4a"
+  },
+  {
+    "file": "data/historical_timing/receiver_runtime_summary.csv",
+    "source_file": "receiver_runtime_summary.csv",
+    "source_sha256": "374ec7b37ff67437aee93a803df92feacf84ff7f44c7e00ed239bcd55d7de62f",
+    "source": "remote snapshot",
+    "modifications": "none",
+    "release_sha256": "374ec7b37ff67437aee93a803df92feacf84ff7f44c7e00ed239bcd55d7de62f"
+  },
+  {
+    "file": "src/fiber_semantic/waveforms.py",
+    "source_file": "ReflectionCreation/f2VEC.py",
+    "source_sha256": "c8f391920fff27d656e368ab3cc3f1f6b6d84c923acdfd68a89d4c5f5a74627e",
+    "source": "remote snapshot",
+    "modifications": "added validated MATLAB loader; extraction unchanged",
+    "release_sha256": "16492e0451d1aa3d3b97ae4b23abecd0a1aaa9416ed47f6fcb87e6c9b70d1d14"
+  }
+]

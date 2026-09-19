@@ -1,0 +1,61 @@
+{
+  "acquisition_date": "2026-05-08",
+  "frequency_spacing_MHz": 70,
+  "source": "Author-supplied experimental server snapshot",
+  "link_length_km": 20,
+  "distance_note": "20-km single-mode-fiber link confirmed by the authors; released filename labels corrected; measurement bytes unchanged.",
+  "files": [
+    {
+      "name": "Data20260508_20km_70MHz_48deg_2.mat",
+      "sha256": "90a7f6045742ae7a6121886481aa9f8393861dcf900815a709051fdbfd9857e4",
+      "bytes": 624027,
+      "variable": "Data",
+      "shape": [
+        204800,
+        1
+      ],
+      "dtype": "float32",
+      "samples_per_symbol": 800,
+      "frequency_symbols": 256
+    },
+    {
+      "name": "Data20260508_20km_70MHz_50deg_1.mat",
+      "sha256": "0067a9b9e0220f3126e3f2065502f9bed870b190fccd38a1424dce469b8949a2",
+      "bytes": 626814,
+      "variable": "Data",
+      "shape": [
+        204800,
+        1
+      ],
+      "dtype": "float32",
+      "samples_per_symbol": 800,
+      "frequency_symbols": 256
+    },
+    {
+      "name": "Data20260508_20km_70MHz_50deg_2.mat",
+      "sha256": "50bb089133e29b9e619948033d4b6f2ac4ff3aa61f3e5aab1ea7bcc53218949f",
+      "bytes": 625427,
+      "variable": "Data",
+      "shape": [
+        204800,
+        1
+      ],
+      "dtype": "float32",
+      "samples_per_symbol": 800,
+      "frequency_symbols": 256
+    },
+    {
+      "name": "Dict20260508_20km_70MHz_50deg_1.mat",
+      "sha256": "c87e24bd3d1d19c29c1722d4a59bc518d657e16f1ec4fecf46674069b4aaa83a",
+      "bytes": 627096,
+      "variable": "Dict",
+      "shape": [
+        204800,
+        1
+      ],
+      "dtype": "float32",
+      "samples_per_symbol": 800,
+      "frequency_symbols": 256
+    }
+  ]
+}

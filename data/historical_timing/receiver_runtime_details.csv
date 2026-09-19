@@ -1,0 +1,2201 @@
+method,scope,repeat,time_ms
+Correlation matching,single_codeword,0,199.97742
+Correlation matching,single_codeword,1,200.025798
+Correlation matching,single_codeword,2,299.873793
+Correlation matching,single_codeword,3,200.032335
+Correlation matching,single_codeword,4,200.019563
+Correlation matching,single_codeword,5,200.001915
+Correlation matching,single_codeword,6,200.213012
+Correlation matching,single_codeword,7,299.726842
+Correlation matching,single_codeword,8,100.034834
+Correlation matching,single_codeword,9,399.997119
+Correlation matching,single_codeword,10,99.925481
+Correlation matching,single_codeword,11,299.970239
+Correlation matching,single_codeword,12,300.003569
+Correlation matching,single_codeword,13,200.173403
+Correlation matching,single_codeword,14,101.040076
+Correlation matching,single_codeword,15,298.774925
+Correlation matching,single_codeword,16,300.09626
+Correlation matching,single_codeword,17,299.799762
+Correlation matching,single_codeword,18,100.098726
+Correlation matching,single_codeword,19,300.048806
+Correlation matching,single_codeword,20,299.842986
+Correlation matching,single_codeword,21,299.887143
+Correlation matching,single_codeword,22,100.160936
+Correlation matching,single_codeword,23,300.005815
+Correlation matching,single_codeword,24,199.994775
+Correlation matching,single_codeword,25,199.819401
+Correlation matching,single_codeword,26,300.163997
+Correlation matching,single_codeword,27,200.031407
+Correlation matching,single_codeword,28,299.970984
+Correlation matching,single_codeword,29,199.88605
+Correlation matching,single_codeword,30,200.067594
+Correlation matching,single_codeword,31,299.936199
+Correlation matching,single_codeword,32,0.542901
+Correlation matching,single_codeword,33,199.557262
+Correlation matching,single_codeword,34,299.768892
+Correlation matching,single_codeword,35,200.317593
+Correlation matching,single_codeword,36,199.856038
+Correlation matching,single_codeword,37,299.993135
+Correlation matching,single_codeword,38,99.82445
+Correlation matching,single_codeword,39,400.049251
+Correlation matching,single_codeword,40,200.096898
+Correlation matching,single_codeword,41,299.765407
+Correlation matching,single_codeword,42,200.211921
+Correlation matching,single_codeword,43,299.955288
+Correlation matching,single_codeword,44,200.054178
+Correlation matching,single_codeword,45,199.940985
+Correlation matching,single_codeword,46,299.86951
+Correlation matching,single_codeword,47,200.235826
+Correlation matching,single_codeword,48,199.83092
+Correlation matching,single_codeword,49,199.917835
+Correlation matching,single_codeword,50,200.059662
+Correlation matching,single_codeword,51,300.589292
+Correlation matching,single_codeword,52,199.531019
+Correlation matching,single_codeword,53,200.021481
+Correlation matching,single_codeword,54,299.77437
+Correlation matching,single_codeword,55,200.12694
+Correlation matching,single_codeword,56,199.935173
+Correlation matching,single_codeword,57,299.935252
+Correlation matching,single_codeword,58,200.077175
+Correlation matching,single_codeword,59,200.064529
+Correlation matching,single_codeword,60,299.881504
+Correlation matching,single_codeword,61,200.003898
+Correlation matching,single_codeword,62,300.076075
+Correlation matching,single_codeword,63,199.829605
+Correlation matching,single_codeword,64,299.917984
+Correlation matching,single_codeword,65,99.963293
+Correlation matching,single_codeword,66,400.921444
+Correlation matching,single_codeword,67,99.297734
+Correlation matching,single_codeword,68,299.993508
+Correlation matching,single_codeword,69,199.965629
+Correlation matching,single_codeword,70,299.885449
+Correlation matching,single_codeword,71,200.174827
+Correlation matching,single_codeword,72,99.964941
+Correlation matching,single_codeword,73,400.014939
+Correlation matching,single_codeword,74,99.906302
+Correlation matching,single_codeword,75,300.050821
+Correlation matching,single_codeword,76,99.962255
+Correlation matching,single_codeword,77,299.854167
+Correlation matching,single_codeword,78,199.930189
+Correlation matching,single_codeword,79,299.956311
+Correlation matching,single_codeword,80,100.240843
+Correlation matching,single_codeword,81,299.926475
+Correlation matching,single_codeword,82,299.841516
+Correlation matching,single_codeword,83,299.960121
+Correlation matching,single_codeword,84,100.001466
+Correlation matching,single_codeword,85,400.104262
+Correlation matching,single_codeword,86,200.023928
+Correlation matching,single_codeword,87,199.896313
+Correlation matching,single_codeword,88,200.131468
+Correlation matching,single_codeword,89,299.921296
+Correlation matching,single_codeword,90,200.044017
+Correlation matching,single_codeword,91,199.952546
+Correlation matching,single_codeword,92,200.164604
+Correlation matching,single_codeword,93,299.837485
+Correlation matching,single_codeword,94,101.505417
+Correlation matching,single_codeword,95,298.501176
+Correlation matching,single_codeword,96,200.069052
+Correlation matching,single_codeword,97,199.946709
+Correlation matching,single_codeword,98,299.932215
+Correlation matching,single_codeword,99,200.22661
+Correlation matching,single_codeword,100,199.939688
+Correlation matching,single_codeword,101,199.854279
+Correlation matching,single_codeword,102,299.869055
+Correlation matching,single_codeword,103,200.340051
+Correlation matching,single_codeword,104,199.707616
+Correlation matching,single_codeword,105,299.939108
+Correlation matching,single_codeword,106,99.935443
+Correlation matching,single_codeword,107,300.153603
+Correlation matching,single_codeword,108,199.822479
+Correlation matching,single_codeword,109,200.238133
+Correlation matching,single_codeword,110,200.006549
+Correlation matching,single_codeword,111,299.858704
+Correlation matching,single_codeword,112,299.912629
+Correlation matching,single_codeword,113,0.54328
+Correlation matching,single_codeword,114,199.502835
+Correlation matching,single_codeword,115,299.958164
+Correlation matching,single_codeword,116,99.882559
+Correlation matching,single_codeword,117,400.127963
+Correlation matching,single_codeword,118,100.087551
+Correlation matching,single_codeword,119,300.057501
+Correlation matching,single_codeword,120,200.114279
+Correlation matching,single_codeword,121,199.920929
+Correlation matching,single_codeword,122,299.901812
+Correlation matching,single_codeword,123,100.009796
+Correlation matching,single_codeword,124,399.80818
+Correlation matching,single_codeword,125,100.035958
+Correlation matching,single_codeword,126,300.030767
+Correlation matching,single_codeword,127,200.19666
+Correlation matching,single_codeword,128,199.933108
+Correlation matching,single_codeword,129,199.941103
+Correlation matching,single_codeword,130,299.925781
+Correlation matching,single_codeword,131,200.052907
+Correlation matching,single_codeword,132,199.997027
+Correlation matching,single_codeword,133,299.963516
+Correlation matching,single_codeword,134,199.980545
+Correlation matching,single_codeword,135,300.080509
+Correlation matching,single_codeword,136,99.973152
+Correlation matching,single_codeword,137,199.977587
+Correlation matching,single_codeword,138,399.8583
+Correlation matching,single_codeword,139,199.998577
+Correlation matching,single_codeword,140,200.226044
+Correlation matching,single_codeword,141,299.887674
+Correlation matching,single_codeword,142,99.907035
+Correlation matching,single_codeword,143,300.033834
+Correlation matching,single_codeword,144,200.016557
+Correlation matching,single_codeword,145,199.874439
+Correlation matching,single_codeword,146,300.150367
+Correlation matching,single_codeword,147,200.005897
+Correlation matching,single_codeword,148,200.190892
+Correlation matching,single_codeword,149,200.005417
+Correlation matching,single_codeword,150,199.840057
+Correlation matching,single_codeword,151,399.926176
+Correlation matching,single_codeword,152,200.002785
+Correlation matching,single_codeword,153,199.941529
+Correlation matching,single_codeword,154,199.909867
+Correlation matching,single_codeword,155,300.004283
+Correlation matching,single_codeword,156,199.991418
+Correlation matching,single_codeword,157,199.996368
+Correlation matching,single_codeword,158,200.263765
+Correlation matching,single_codeword,159,199.703553
+Correlation matching,single_codeword,160,200.479686
+Correlation matching,single_codeword,161,299.763353
+Correlation matching,single_codeword,162,199.909915
+Correlation matching,single_codeword,163,199.89732
+Correlation matching,single_codeword,164,300.2375
+Correlation matching,single_codeword,165,0.68016
+Correlation matching,single_codeword,166,199.070438
+Correlation matching,single_codeword,167,299.865072
+Correlation matching,single_codeword,168,100.065953
+Correlation matching,single_codeword,169,300.121044
+Correlation matching,single_codeword,170,299.911841
+Correlation matching,single_codeword,171,0.727637
+Correlation matching,single_codeword,172,99.409094
+Correlation matching,single_codeword,173,299.790137
+Correlation matching,single_codeword,174,299.887071
+Correlation matching,single_codeword,175,100.034537
+Correlation matching,single_codeword,176,399.953644
+Correlation matching,single_codeword,177,200.123958
+Correlation matching,single_codeword,178,200.049572
+Correlation matching,single_codeword,179,199.987388
+Correlation matching,single_codeword,180,200.08128
+Correlation matching,single_codeword,181,200.09914
+Correlation matching,single_codeword,182,199.892931
+Correlation matching,single_codeword,183,299.766377
+Correlation matching,single_codeword,184,200.145728
+Correlation matching,single_codeword,185,200.055754
+Correlation matching,single_codeword,186,299.741351
+Correlation matching,single_codeword,187,100.097882
+Correlation matching,single_codeword,188,399.93175
+Correlation matching,single_codeword,189,0.551912
+Correlation matching,single_codeword,190,99.606326
+Correlation matching,single_codeword,191,399.920079
+Correlation matching,single_codeword,192,299.990153
+Correlation matching,single_codeword,193,199.873267
+Correlation matching,single_codeword,194,300.135172
+Correlation matching,single_codeword,195,299.812859
+Correlation matching,single_codeword,196,100.059684
+Correlation matching,single_codeword,197,300.09893
+Correlation matching,single_codeword,198,200.000191
+Correlation matching,single_codeword,199,200.010422
+Correlation matching,single_codeword,200,299.850146
+Correlation matching,single_codeword,201,200.152179
+Correlation matching,single_codeword,202,199.966216
+Correlation matching,single_codeword,203,200.126589
+Correlation matching,single_codeword,204,299.865871
+Correlation matching,single_codeword,205,199.938596
+Correlation matching,single_codeword,206,299.960447
+Correlation matching,single_codeword,207,199.993572
+Correlation matching,single_codeword,208,300.050645
+Correlation matching,single_codeword,209,299.927019
+Correlation matching,single_codeword,210,100.264663
+Correlation matching,single_codeword,211,200.676357
+Correlation matching,single_codeword,212,299.001022
+Correlation matching,single_codeword,213,299.976312
+Correlation matching,single_codeword,214,99.905572
+Correlation matching,single_codeword,215,300.12103
+Correlation matching,single_codeword,216,299.989216
+Correlation matching,single_codeword,217,299.863871
+Correlation matching,single_codeword,218,0.48521
+Correlation matching,single_codeword,219,199.601872
+Correlation matching,single_codeword,220,299.914095
+Correlation matching,single_codeword,221,99.996983
+Correlation matching,single_codeword,222,300.162092
+Correlation matching,single_codeword,223,300.004501
+Correlation matching,single_codeword,224,300.029794
+Correlation matching,single_codeword,225,0.56658
+Correlation matching,single_codeword,226,199.317846
+Correlation matching,single_codeword,227,199.960872
+Correlation matching,single_codeword,228,200.145616
+Correlation matching,single_codeword,229,199.965032
+Correlation matching,single_codeword,230,200.598413
+Correlation matching,single_codeword,231,199.271908
+Correlation matching,single_codeword,232,300.027955
+Correlation matching,single_codeword,233,200.247399
+Correlation matching,single_codeword,234,199.731414
+Correlation matching,single_codeword,235,200.013936
+Correlation matching,single_codeword,236,199.983119
+Correlation matching,single_codeword,237,200.119596
+Correlation matching,single_codeword,238,200.028391
+Correlation matching,single_codeword,239,299.847723
+Correlation matching,single_codeword,240,200.139558
+Correlation matching,single_codeword,241,299.894714
+Correlation matching,single_codeword,242,100.12143
+Correlation matching,single_codeword,243,399.673153
+Correlation matching,single_codeword,244,100.163977
+Correlation matching,single_codeword,245,399.938374
+Correlation matching,single_codeword,246,200.106275
+Correlation matching,single_codeword,247,200.063459
+Correlation matching,single_codeword,248,299.918896
+Correlation matching,single_codeword,249,200.025704
+Correlation matching,single_codeword,250,299.725896
+Correlation matching,single_codeword,251,100.02308
+Correlation matching,single_codeword,252,400.101086
+Correlation matching,single_codeword,253,200.386055
+Correlation matching,single_codeword,254,199.709419
+Correlation matching,single_codeword,255,199.929638
+Correlation matching,single_codeword,256,299.786384
+Correlation matching,single_codeword,257,99.982757
+Correlation matching,single_codeword,258,500.120799
+Correlation matching,single_codeword,259,99.941789
+Correlation matching,single_codeword,260,399.977811
+Correlation matching,single_codeword,261,99.978898
+Correlation matching,single_codeword,262,300.293138
+Correlation matching,single_codeword,263,199.723375
+Correlation matching,single_codeword,264,200.194369
+Correlation matching,single_codeword,265,299.991409
+Correlation matching,single_codeword,266,299.743684
+Correlation matching,single_codeword,267,0.619774
+Correlation matching,single_codeword,268,199.580076
+Correlation matching,single_codeword,269,299.951024
+Correlation matching,single_codeword,270,199.967942
+Correlation matching,single_codeword,271,299.975101
+Correlation matching,single_codeword,272,100.1297
+Correlation matching,single_codeword,273,399.903299
+Correlation matching,single_codeword,274,199.944916
+Correlation matching,single_codeword,275,200.107964
+Correlation matching,single_codeword,276,199.994263
+Correlation matching,single_codeword,277,199.942715
+Correlation matching,single_codeword,278,199.991719
+Correlation matching,single_codeword,279,299.976037
+Correlation matching,single_codeword,280,199.965283
+Correlation matching,single_codeword,281,299.85058
+Correlation matching,single_codeword,282,200.302886
+Correlation matching,single_codeword,283,199.923374
+Correlation matching,single_codeword,284,199.923327
+Correlation matching,single_codeword,285,200.107516
+Correlation matching,single_codeword,286,299.827358
+Correlation matching,single_codeword,287,200.044433
+Correlation matching,single_codeword,288,299.97303
+Correlation matching,single_codeword,289,100.071363
+Correlation matching,single_codeword,290,399.925066
+Correlation matching,single_codeword,291,200.032836
+Correlation matching,single_codeword,292,199.97371
+Correlation matching,single_codeword,293,200.100447
+Correlation matching,single_codeword,294,199.896041
+Correlation matching,single_codeword,295,300.029002
+Correlation matching,single_codeword,296,299.855507
+Correlation matching,single_codeword,297,0.601999
+Correlation matching,single_codeword,298,199.486029
+Correlation matching,single_codeword,299,299.83271
+Correlation matching,single_codeword,300,200.141853
+Correlation matching,single_codeword,301,199.964604
+Correlation matching,single_codeword,302,200.064135
+Correlation matching,single_codeword,303,399.930557
+Correlation matching,single_codeword,304,99.992023
+Correlation matching,single_codeword,305,299.989563
+Correlation matching,single_codeword,306,200.057021
+Correlation matching,single_codeword,307,299.957713
+Correlation matching,single_codeword,308,199.92545
+Correlation matching,single_codeword,309,200.101608
+Correlation matching,single_codeword,310,299.946512
+Correlation matching,single_codeword,311,199.84825
+Correlation matching,single_codeword,312,300.133423
+Correlation matching,single_codeword,313,0.694845
+Correlation matching,single_codeword,314,199.20013
+Correlation matching,single_codeword,315,300.069554
+Correlation matching,single_codeword,316,199.909897
+Correlation matching,single_codeword,317,200.075212
+Correlation matching,single_codeword,318,299.936566
+Correlation matching,single_codeword,319,300.064207
+Correlation matching,single_codeword,320,99.803305
+Correlation matching,single_codeword,321,400.005507
+Correlation matching,single_codeword,322,101.750556
+Correlation matching,single_codeword,323,298.415003
+Correlation matching,single_codeword,324,200.196737
+Correlation matching,single_codeword,325,299.827167
+Correlation matching,single_codeword,326,199.958096
+Correlation matching,single_codeword,327,199.987969
+Correlation matching,single_codeword,328,299.935892
+Correlation matching,single_codeword,329,199.989851
+Correlation matching,single_codeword,330,200.086887
+Correlation matching,single_codeword,331,299.890288
+Correlation matching,single_codeword,332,99.907302
+Correlation matching,single_codeword,333,300.572838
+Correlation matching,single_codeword,334,299.454833
+Correlation matching,single_codeword,335,99.962469
+Correlation matching,single_codeword,336,400.139533
+Correlation matching,single_codeword,337,0.577835
+Correlation matching,single_codeword,338,199.453278
+Correlation matching,single_codeword,339,299.980873
+Correlation matching,single_codeword,340,199.906792
+Correlation matching,single_codeword,341,200.131556
+Correlation matching,single_codeword,342,299.876257
+Correlation matching,single_codeword,343,199.881977
+Correlation matching,single_codeword,344,100.173353
+Correlation matching,single_codeword,345,299.88888
+Correlation matching,single_codeword,346,200.062421
+Correlation matching,single_codeword,347,200.140882
+Correlation matching,single_codeword,348,299.828768
+Correlation matching,single_codeword,349,200.035014
+Correlation matching,single_codeword,350,200.022784
+Correlation matching,single_codeword,351,300.033489
+Correlation matching,single_codeword,352,299.804933
+Correlation matching,single_codeword,353,200.081838
+Correlation matching,single_codeword,354,199.993418
+Correlation matching,single_codeword,355,200.090423
+Correlation matching,single_codeword,356,299.90267
+Correlation matching,single_codeword,357,199.99009
+Correlation matching,single_codeword,358,199.983031
+Correlation matching,single_codeword,359,300.005843
+Correlation matching,single_codeword,360,299.841085
+Correlation matching,single_codeword,361,99.959925
+Correlation matching,single_codeword,362,400.104472
+Correlation matching,single_codeword,363,200.175466
+Correlation matching,single_codeword,364,99.889353
+Correlation matching,single_codeword,365,300.159228
+Correlation matching,single_codeword,366,199.911094
+Correlation matching,single_codeword,367,200.023372
+Correlation matching,single_codeword,368,199.894118
+Correlation matching,single_codeword,369,200.030318
+Correlation matching,single_codeword,370,299.978141
+Correlation matching,single_codeword,371,199.930891
+Correlation matching,single_codeword,372,200.348187
+Correlation matching,single_codeword,373,199.71086
+Correlation matching,single_codeword,374,299.888704
+Correlation matching,single_codeword,375,100.025341
+Correlation matching,single_codeword,376,299.993838
+Correlation matching,single_codeword,377,199.968817
+Correlation matching,single_codeword,378,299.99456
+Correlation matching,single_codeword,379,200.032991
+Correlation matching,single_codeword,380,300.063105
+Correlation matching,single_codeword,381,199.876896
+Correlation matching,single_codeword,382,200.046637
+Correlation matching,single_codeword,383,299.914827
+Correlation matching,single_codeword,384,0.728273
+Correlation matching,single_codeword,385,199.243798
+Correlation matching,single_codeword,386,200.14372
+Correlation matching,single_codeword,387,300.018804
+Correlation matching,single_codeword,388,200.015969
+Correlation matching,single_codeword,389,199.862578
+Correlation matching,single_codeword,390,200.221306
+Correlation matching,single_codeword,391,199.820445
+Correlation matching,single_codeword,392,299.889354
+Correlation matching,single_codeword,393,100.017909
+Correlation matching,single_codeword,394,300.173969
+Correlation matching,single_codeword,395,299.854532
+Correlation matching,single_codeword,396,99.989377
+Correlation matching,single_codeword,397,300.031144
+Correlation matching,single_codeword,398,299.897697
+Correlation matching,single_codeword,399,99.879328
+Correlation matching,single_codeword,400,400.188228
+Correlation matching,single_codeword,401,199.913997
+Correlation matching,single_codeword,402,300.040227
+Correlation matching,single_codeword,403,0.576822
+Correlation matching,single_codeword,404,199.537976
+Correlation matching,single_codeword,405,200.023911
+Correlation matching,single_codeword,406,99.920648
+Correlation matching,single_codeword,407,399.938628
+Correlation matching,single_codeword,408,0.644422
+Correlation matching,single_codeword,409,199.274246
+Correlation matching,single_codeword,410,299.87881
+Correlation matching,single_codeword,411,0.561784
+Correlation matching,single_codeword,412,199.508811
+Correlation matching,single_codeword,413,100.105246
+Correlation matching,single_codeword,414,299.963875
+Correlation matching,single_codeword,415,299.962367
+Correlation matching,single_codeword,416,200.143477
+Correlation matching,single_codeword,417,299.97527
+Correlation matching,single_codeword,418,99.771937
+Correlation matching,single_codeword,419,300.107644
+Correlation matching,single_codeword,420,199.899282
+Correlation matching,single_codeword,421,200.077535
+Correlation matching,single_codeword,422,199.969317
+Correlation matching,single_codeword,423,299.855121
+Correlation matching,single_codeword,424,200.083892
+Correlation matching,single_codeword,425,100.106125
+Correlation matching,single_codeword,426,299.926515
+Correlation matching,single_codeword,427,200.126711
+Correlation matching,single_codeword,428,199.956301
+Correlation matching,single_codeword,429,199.951765
+Correlation matching,single_codeword,430,299.925102
+Correlation matching,single_codeword,431,100.011398
+Correlation matching,single_codeword,432,299.986334
+Correlation matching,single_codeword,433,200.084746
+Correlation matching,single_codeword,434,299.977978
+Correlation matching,single_codeword,435,199.85416
+Correlation matching,single_codeword,436,200.074495
+Correlation matching,single_codeword,437,199.955952
+Correlation matching,single_codeword,438,199.96729
+Correlation matching,single_codeword,439,299.962691
+Correlation matching,single_codeword,440,100.088597
+Correlation matching,single_codeword,441,399.93809
+Correlation matching,single_codeword,442,100.089959
+Correlation matching,single_codeword,443,300.027195
+Correlation matching,single_codeword,444,199.98478
+Correlation matching,single_codeword,445,300.001486
+Correlation matching,single_codeword,446,200.074815
+Correlation matching,single_codeword,447,200.038215
+Correlation matching,single_codeword,448,199.791121
+Correlation matching,single_codeword,449,200.041281
+Correlation matching,single_codeword,450,300.069094
+Correlation matching,single_codeword,451,199.908532
+Correlation matching,single_codeword,452,299.846837
+Correlation matching,single_codeword,453,99.940089
+Correlation matching,single_codeword,454,400.219588
+Correlation matching,single_codeword,455,100.003033
+Correlation matching,single_codeword,456,399.930059
+Correlation matching,single_codeword,457,99.995303
+Correlation matching,single_codeword,458,400.028364
+Correlation matching,single_codeword,459,200.101078
+Correlation matching,single_codeword,460,99.928003
+Correlation matching,single_codeword,461,299.907952
+Correlation matching,single_codeword,462,300.02939
+Correlation matching,single_codeword,463,199.932342
+Correlation matching,single_codeword,464,200.242839
+Correlation matching,single_codeword,465,199.912932
+Correlation matching,single_codeword,466,299.824357
+Correlation matching,single_codeword,467,200.004747
+Correlation matching,single_codeword,468,200.046804
+Correlation matching,single_codeword,469,200.065957
+Correlation matching,single_codeword,470,199.987608
+Correlation matching,single_codeword,471,299.942461
+Correlation matching,single_codeword,472,200.001894
+Correlation matching,single_codeword,473,200.048103
+Correlation matching,single_codeword,474,299.874537
+Correlation matching,single_codeword,475,200.27217
+Correlation matching,single_codeword,476,199.710131
+Correlation matching,single_codeword,477,299.960184
+Correlation matching,single_codeword,478,100.114585
+Correlation matching,single_codeword,479,299.984011
+Correlation matching,single_codeword,480,300.00628
+Correlation matching,single_codeword,481,0.554571
+Correlation matching,single_codeword,482,199.4564
+Correlation matching,single_codeword,483,299.926202
+Correlation matching,single_codeword,484,104.02393
+Correlation matching,single_codeword,485,395.852203
+Correlation matching,single_codeword,486,300.124128
+Correlation matching,single_codeword,487,200.021627
+Correlation matching,single_codeword,488,200.049841
+Correlation matching,single_codeword,489,299.946073
+Correlation matching,single_codeword,490,199.919985
+Correlation matching,single_codeword,491,300.003036
+Correlation matching,single_codeword,492,199.967361
+Correlation matching,single_codeword,493,100.167542
+Correlation matching,single_codeword,494,299.922257
+Correlation matching,single_codeword,495,200.03721
+Correlation matching,single_codeword,496,201.684877
+Correlation matching,single_codeword,497,298.257404
+Correlation matching,single_codeword,498,199.902238
+Correlation matching,single_codeword,499,300.004521
+Correlation matching,single_codeword,500,200.28851
+Correlation matching,single_codeword,501,299.693899
+Correlation matching,single_codeword,502,100.179228
+Correlation matching,single_codeword,503,399.846805
+Correlation matching,single_codeword,504,0.500493
+Correlation matching,single_codeword,505,199.394566
+Correlation matching,single_codeword,506,200.214647
+Correlation matching,single_codeword,507,299.929138
+Correlation matching,single_codeword,508,99.952045
+Correlation matching,single_codeword,509,200.11251
+Correlation matching,single_codeword,510,199.942902
+Correlation matching,single_codeword,511,300.056864
+Correlation matching,single_codeword,512,199.951269
+Correlation matching,single_codeword,513,199.913244
+Correlation matching,single_codeword,514,300.019258
+Correlation matching,single_codeword,515,99.989674
+Correlation matching,single_codeword,516,300.04344
+Correlation matching,single_codeword,517,199.958243
+Correlation matching,single_codeword,518,299.995268
+Correlation matching,single_codeword,519,200.095518
+Correlation matching,single_codeword,520,299.869174
+Correlation matching,single_codeword,521,200.1612
+Correlation matching,single_codeword,522,202.390153
+Correlation matching,single_codeword,523,297.49157
+Correlation matching,single_codeword,524,199.979976
+Correlation matching,single_codeword,525,299.897723
+Correlation matching,single_codeword,526,200.005683
+Correlation matching,single_codeword,527,299.96899
+Correlation matching,single_codeword,528,200.017323
+Correlation matching,single_codeword,529,200.01183
+Correlation matching,single_codeword,530,200.03475
+Correlation matching,single_codeword,531,299.817221
+Correlation matching,single_codeword,532,300.135341
+Correlation matching,single_codeword,533,200.029224
+Correlation matching,single_codeword,534,199.991992
+Correlation matching,single_codeword,535,199.856056
+Correlation matching,single_codeword,536,200.282764
+Correlation matching,single_codeword,537,299.94951
+Correlation matching,single_codeword,538,199.979332
+Correlation matching,single_codeword,539,299.92719
+Correlation matching,single_codeword,540,199.970363
+Correlation matching,single_codeword,541,199.953054
+Correlation matching,single_codeword,542,199.93944
+Correlation matching,single_codeword,543,299.984917
+Correlation matching,single_codeword,544,200.208491
+Correlation matching,single_codeword,545,299.830445
+Correlation matching,single_codeword,546,0.548255
+Correlation matching,single_codeword,547,199.381358
+Correlation matching,single_codeword,548,299.892909
+Correlation matching,single_codeword,549,200.404356
+Correlation matching,single_codeword,550,299.732581
+Correlation matching,single_codeword,551,199.956591
+Correlation matching,single_codeword,552,200.072027
+Correlation matching,single_codeword,553,299.858662
+Correlation matching,single_codeword,554,300.578879
+Correlation matching,single_codeword,555,199.52909
+Correlation matching,single_codeword,556,299.889447
+Correlation matching,single_codeword,557,200.044289
+Correlation matching,single_codeword,558,200.088736
+Correlation matching,single_codeword,559,299.934592
+Correlation matching,single_codeword,560,200.064272
+Correlation matching,single_codeword,561,299.91265
+Correlation matching,single_codeword,562,300.055681
+Correlation matching,single_codeword,563,199.78416
+Correlation matching,single_codeword,564,299.955102
+Correlation matching,single_codeword,565,200.431171
+Correlation matching,single_codeword,566,299.823596
+Correlation matching,single_codeword,567,199.949916
+Correlation matching,single_codeword,568,199.997981
+Correlation matching,single_codeword,569,200.041565
+Correlation matching,single_codeword,570,299.781341
+Correlation matching,single_codeword,571,200.032886
+Correlation matching,single_codeword,572,201.474105
+Correlation matching,single_codeword,573,198.847638
+Correlation matching,single_codeword,574,199.528141
+Correlation matching,single_codeword,575,200.090413
+Correlation matching,single_codeword,576,300.046127
+Correlation matching,single_codeword,577,200.059317
+Correlation matching,single_codeword,578,299.902201
+Correlation matching,single_codeword,579,299.859197
+Correlation matching,single_codeword,580,200.055277
+Correlation matching,single_codeword,581,299.926787
+Correlation matching,single_codeword,582,100.097321
+Correlation matching,single_codeword,583,299.999076
+Correlation matching,single_codeword,584,300.025441
+Correlation matching,single_codeword,585,99.852713
+Correlation matching,single_codeword,586,300.082832
+Correlation matching,single_codeword,587,200.073007
+Correlation matching,single_codeword,588,299.970579
+Correlation matching,single_codeword,589,200.057631
+Correlation matching,single_codeword,590,99.961422
+Correlation matching,single_codeword,591,299.986617
+Correlation matching,single_codeword,592,399.823393
+Correlation matching,single_codeword,593,99.887216
+Correlation matching,single_codeword,594,300.242
+Correlation matching,single_codeword,595,299.78617
+Correlation matching,single_codeword,596,300.13209
+Correlation matching,single_codeword,597,0.561787
+Correlation matching,single_codeword,598,299.429292
+Correlation matching,single_codeword,599,99.836028
+Correlation matching,single_codeword,600,400.216058
+Correlation matching,single_codeword,601,199.898449
+Correlation matching,single_codeword,602,100.062857
+Correlation matching,single_codeword,603,400.072486
+Correlation matching,single_codeword,604,199.827869
+Correlation matching,single_codeword,605,300.094674
+Correlation matching,single_codeword,606,200.003166
+Correlation matching,single_codeword,607,103.759344
+Correlation matching,single_codeword,608,296.329983
+Correlation matching,single_codeword,609,299.819195
+Correlation matching,single_codeword,610,99.928379
+Correlation matching,single_codeword,611,399.956994
+Correlation matching,single_codeword,612,200.185612
+Correlation matching,single_codeword,613,299.961852
+Correlation matching,single_codeword,614,99.913959
+Correlation matching,single_codeword,615,400.04406
+Correlation matching,single_codeword,616,199.993461
+Correlation matching,single_codeword,617,299.862613
+Correlation matching,single_codeword,618,200.047292
+Correlation matching,single_codeword,619,200.062459
+Correlation matching,single_codeword,620,300.06834
+Correlation matching,single_codeword,621,199.963161
+Correlation matching,single_codeword,622,200.037618
+Correlation matching,single_codeword,623,299.958118
+Correlation matching,single_codeword,624,200.004266
+Correlation matching,single_codeword,625,199.90826
+Correlation matching,single_codeword,626,200.07907
+Correlation matching,single_codeword,627,300.040036
+Correlation matching,single_codeword,628,99.898407
+Correlation matching,single_codeword,629,299.978231
+Correlation matching,single_codeword,630,200.014216
+Correlation matching,single_codeword,631,199.907437
+Correlation matching,single_codeword,632,299.891302
+Correlation matching,single_codeword,633,100.08638
+Correlation matching,single_codeword,634,499.875906
+Correlation matching,single_codeword,635,100.031354
+Correlation matching,single_codeword,636,400.040629
+Correlation matching,single_codeword,637,102.237068
+Correlation matching,single_codeword,638,398.009552
+Correlation matching,single_codeword,639,199.882961
+Correlation matching,single_codeword,640,199.925711
+Correlation matching,single_codeword,641,199.998705
+Correlation matching,single_codeword,642,200.098123
+Correlation matching,single_codeword,643,399.675863
+Correlation matching,single_codeword,644,100.049422
+Correlation matching,single_codeword,645,400.079022
+Correlation matching,single_codeword,646,200.030667
+Correlation matching,single_codeword,647,300.002526
+Correlation matching,single_codeword,648,299.987213
+Correlation matching,single_codeword,649,200.043641
+Correlation matching,single_codeword,650,299.823143
+Correlation matching,single_codeword,651,0.777682
+Correlation matching,single_codeword,652,199.24691
+Correlation matching,single_codeword,653,99.999052
+Correlation matching,single_codeword,654,300.024573
+Correlation matching,single_codeword,655,300.053007
+Correlation matching,single_codeword,656,299.865869
+Correlation matching,single_codeword,657,200.137371
+Correlation matching,single_codeword,658,299.795954
+Correlation matching,single_codeword,659,200.107535
+Correlation matching,single_codeword,660,199.99527
+Correlation matching,single_codeword,661,200.031976
+Correlation matching,single_codeword,662,299.888267
+Correlation matching,single_codeword,663,300.099733
+Correlation matching,single_codeword,664,199.91763
+Correlation matching,single_codeword,665,200.029053
+Correlation matching,single_codeword,666,200.005257
+Correlation matching,single_codeword,667,199.942724
+Correlation matching,single_codeword,668,200.065614
+Correlation matching,single_codeword,669,200.032707
+Correlation matching,single_codeword,670,299.918551
+Correlation matching,single_codeword,671,200.023391
+Correlation matching,single_codeword,672,299.898772
+Correlation matching,single_codeword,673,0.83397
+Correlation matching,single_codeword,674,99.205573
+Correlation matching,single_codeword,675,399.8958
+Correlation matching,single_codeword,676,100.12589
+Correlation matching,single_codeword,677,499.999032
+Correlation matching,single_codeword,678,0.536935
+Correlation matching,single_codeword,679,99.378508
+Correlation matching,single_codeword,680,400.177794
+Correlation matching,single_codeword,681,199.755345
+Correlation matching,single_codeword,682,299.951808
+Correlation matching,single_codeword,683,3.883006
+Correlation matching,single_codeword,684,396.091524
+Correlation matching,single_codeword,685,100.168426
+Correlation matching,single_codeword,686,300.025813
+Correlation matching,single_codeword,687,300.00689
+Correlation matching,single_codeword,688,199.959136
+Correlation matching,single_codeword,689,199.944912
+Correlation matching,single_codeword,690,200.252599
+Correlation matching,single_codeword,691,299.760431
+Correlation matching,single_codeword,692,200.105625
+Correlation matching,single_codeword,693,200.048399
+Correlation matching,single_codeword,694,299.946756
+Correlation matching,single_codeword,695,199.716463
+Correlation matching,single_codeword,696,300.071763
+Correlation matching,single_codeword,697,200.191245
+Correlation matching,single_codeword,698,199.959519
+Correlation matching,single_codeword,699,299.900743
+Correlation matching,single_codeword,700,99.972319
+Correlation matching,single_codeword,701,400.073768
+Correlation matching,single_codeword,702,200.272286
+Correlation matching,single_codeword,703,199.61514
+Correlation matching,single_codeword,704,299.949469
+Correlation matching,single_codeword,705,200.167933
+Correlation matching,single_codeword,706,199.976594
+Correlation matching,single_codeword,707,199.911611
+Correlation matching,single_codeword,708,204.492448
+Correlation matching,single_codeword,709,295.54736
+Correlation matching,single_codeword,710,200.007918
+Correlation matching,single_codeword,711,199.996197
+Correlation matching,single_codeword,712,299.999014
+Correlation matching,single_codeword,713,199.977884
+Correlation matching,single_codeword,714,299.941336
+Correlation matching,single_codeword,715,200.069974
+Correlation matching,single_codeword,716,100.088241
+Correlation matching,single_codeword,717,299.904236
+Correlation matching,single_codeword,718,199.962838
+Correlation matching,single_codeword,719,200.017941
+Correlation matching,single_codeword,720,299.857378
+Correlation matching,single_codeword,721,300.220437
+Correlation matching,single_codeword,722,0.613832
+Correlation matching,single_codeword,723,199.238027
+Correlation matching,single_codeword,724,300.141191
+Correlation matching,single_codeword,725,0.646471
+Correlation matching,single_codeword,726,199.139858
+Correlation matching,single_codeword,727,300.064844
+Correlation matching,single_codeword,728,0.581722
+Correlation matching,single_codeword,729,99.412118
+Correlation matching,single_codeword,730,300.133414
+Correlation matching,single_codeword,731,299.889191
+Correlation matching,single_codeword,732,200.037954
+Correlation matching,single_codeword,733,299.800871
+Correlation matching,single_codeword,734,0.50274
+Correlation matching,single_codeword,735,199.545233
+Correlation matching,single_codeword,736,299.912988
+Correlation matching,single_codeword,737,200.038786
+Correlation matching,single_codeword,738,200.09232
+Correlation matching,single_codeword,739,299.933606
+Correlation matching,single_codeword,740,99.894033
+Correlation matching,single_codeword,741,300.094326
+Correlation matching,single_codeword,742,299.986058
+Correlation matching,single_codeword,743,200.045542
+Correlation matching,single_codeword,744,199.976802
+Correlation matching,single_codeword,745,199.872708
+Correlation matching,single_codeword,746,300.0572
+Correlation matching,single_codeword,747,200.202357
+Correlation matching,single_codeword,748,299.735764
+Correlation matching,single_codeword,749,199.983736
+Correlation matching,single_codeword,750,200.081229
+Correlation matching,single_codeword,751,300.167597
+Correlation matching,single_codeword,752,0.459728
+Correlation matching,single_codeword,753,199.359929
+Correlation matching,single_codeword,754,100.067082
+Correlation matching,single_codeword,755,399.80159
+Correlation matching,single_codeword,756,99.953012
+Correlation matching,single_codeword,757,300.354425
+Correlation matching,single_codeword,758,300.054959
+Correlation matching,single_codeword,759,99.629145
+Correlation matching,single_codeword,760,400.065895
+Correlation matching,single_codeword,761,200.081332
+Correlation matching,single_codeword,762,200.009138
+Correlation matching,single_codeword,763,299.788551
+Correlation matching,single_codeword,764,99.951147
+Correlation matching,single_codeword,765,300.165766
+Correlation matching,single_codeword,766,200.828636
+Correlation matching,single_codeword,767,299.033615
+Correlation matching,single_codeword,768,100.121132
+Correlation matching,single_codeword,769,200.09586
+Correlation matching,single_codeword,770,399.857717
+Correlation matching,single_codeword,771,100.071883
+Correlation matching,single_codeword,772,399.925703
+Correlation matching,single_codeword,773,99.891352
+Correlation matching,single_codeword,774,300.065094
+Correlation matching,single_codeword,775,200.078071
+Correlation matching,single_codeword,776,200.138133
+Correlation matching,single_codeword,777,199.769762
+Correlation matching,single_codeword,778,300.0427
+Correlation matching,single_codeword,779,99.945731
+Correlation matching,single_codeword,780,399.931023
+Correlation matching,single_codeword,781,200.072388
+Correlation matching,single_codeword,782,100.15289
+Correlation matching,single_codeword,783,399.814381
+Correlation matching,single_codeword,784,99.913147
+Correlation matching,single_codeword,785,300.094435
+Correlation matching,single_codeword,786,200.037141
+Correlation matching,single_codeword,787,299.970161
+Correlation matching,single_codeword,788,299.947317
+Correlation matching,single_codeword,789,0.582275
+Correlation matching,single_codeword,790,199.406754
+Correlation matching,single_codeword,791,299.923706
+Correlation matching,single_codeword,792,99.917722
+Correlation matching,single_codeword,793,200.239689
+Correlation matching,single_codeword,794,299.86971
+Correlation matching,single_codeword,795,299.874655
+Correlation matching,single_codeword,796,100.043467
+Correlation matching,single_codeword,797,399.938682
+Correlation matching,single_codeword,798,200.216811
+Correlation matching,single_codeword,799,200.07248
+Correlation matching,single_codeword,800,200.009162
+Correlation matching,single_codeword,801,399.767209
+Correlation matching,single_codeword,802,99.924975
+Correlation matching,single_codeword,803,400.000019
+Correlation matching,single_codeword,804,101.069181
+Correlation matching,single_codeword,805,299.041369
+Correlation matching,single_codeword,806,299.994028
+Correlation matching,single_codeword,807,200.093656
+Correlation matching,single_codeword,808,199.933154
+Correlation matching,single_codeword,809,299.842386
+Correlation matching,single_codeword,810,200.09071
+Correlation matching,single_codeword,811,300.131041
+Correlation matching,single_codeword,812,299.955792
+Correlation matching,single_codeword,813,199.895969
+Correlation matching,single_codeword,814,100.157732
+Correlation matching,single_codeword,815,399.769599
+Correlation matching,single_codeword,816,200.048276
+Correlation matching,single_codeword,817,300.034522
+Correlation matching,single_codeword,818,99.805834
+Correlation matching,single_codeword,819,300.228772
+Correlation matching,single_codeword,820,299.817268
+Correlation matching,single_codeword,821,200.18699
+Correlation matching,single_codeword,822,199.884026
+Correlation matching,single_codeword,823,299.993816
+Correlation matching,single_codeword,824,100.114035
+Correlation matching,single_codeword,825,399.759004
+Correlation matching,single_codeword,826,200.135803
+Correlation matching,single_codeword,827,200.123802
+Correlation matching,single_codeword,828,199.861294
+Correlation matching,single_codeword,829,299.944316
+Correlation matching,single_codeword,830,200.09674
+Correlation matching,single_codeword,831,199.959828
+Correlation matching,single_codeword,832,299.911489
+Correlation matching,single_codeword,833,299.999726
+Correlation matching,single_codeword,834,100.198123
+Correlation matching,single_codeword,835,299.853569
+Correlation matching,single_codeword,836,200.049848
+Correlation matching,single_codeword,837,199.942915
+Correlation matching,single_codeword,838,200.057085
+Correlation matching,single_codeword,839,199.891093
+Correlation matching,single_codeword,840,299.915517
+Correlation matching,single_codeword,841,99.907977
+Correlation matching,single_codeword,842,300.234562
+Correlation matching,single_codeword,843,199.88038
+Correlation matching,single_codeword,844,300.07771
+Correlation matching,single_codeword,845,99.814597
+Correlation matching,single_codeword,846,400.244109
+Correlation matching,single_codeword,847,199.903139
+Correlation matching,single_codeword,848,300.065116
+Correlation matching,single_codeword,849,199.980494
+Correlation matching,single_codeword,850,200.014325
+Correlation matching,single_codeword,851,200.056132
+Correlation matching,single_codeword,852,299.776451
+Correlation matching,single_codeword,853,200.114841
+Correlation matching,single_codeword,854,199.930148
+Correlation matching,single_codeword,855,299.856464
+Correlation matching,single_codeword,856,99.980951
+Correlation matching,single_codeword,857,400.073935
+Correlation matching,single_codeword,858,0.700581
+Correlation matching,single_codeword,859,199.257836
+Correlation matching,single_codeword,860,299.930798
+Correlation matching,single_codeword,861,100.007196
+Correlation matching,single_codeword,862,300.082903
+Correlation matching,single_codeword,863,200.016875
+Correlation matching,single_codeword,864,299.970724
+Correlation matching,single_codeword,865,99.893323
+Correlation matching,single_codeword,866,300.147875
+Correlation matching,single_codeword,867,300.039237
+Correlation matching,single_codeword,868,299.889492
+Correlation matching,single_codeword,869,100.09354
+Correlation matching,single_codeword,870,300.00483
+Correlation matching,single_codeword,871,299.856757
+Correlation matching,single_codeword,872,200.201562
+Correlation matching,single_codeword,873,299.837855
+Correlation matching,single_codeword,874,200.038743
+Correlation matching,single_codeword,875,199.97165
+Correlation matching,single_codeword,876,199.970437
+Correlation matching,single_codeword,877,299.901315
+Correlation matching,single_codeword,878,200.093502
+Correlation matching,single_codeword,879,200.084855
+Correlation matching,single_codeword,880,299.946892
+Correlation matching,single_codeword,881,199.923792
+Correlation matching,single_codeword,882,100.073005
+Correlation matching,single_codeword,883,399.987242
+Correlation matching,single_codeword,884,3.722158
+Correlation matching,single_codeword,885,296.294082
+Correlation matching,single_codeword,886,299.874461
+Correlation matching,single_codeword,887,99.908892
+Correlation matching,single_codeword,888,400.071587
+Correlation matching,single_codeword,889,199.99309
+Correlation matching,single_codeword,890,299.92001
+Correlation matching,single_codeword,891,99.984562
+Correlation matching,single_codeword,892,400.049022
+Correlation matching,single_codeword,893,99.996095
+Correlation matching,single_codeword,894,300.082644
+Correlation matching,single_codeword,895,200.056125
+Correlation matching,single_codeword,896,299.959168
+Correlation matching,single_codeword,897,199.941349
+Correlation matching,single_codeword,898,300.047969
+Correlation matching,single_codeword,899,100.01572
+Correlation matching,single_codeword,900,299.930791
+Correlation matching,single_codeword,901,300.040857
+Correlation matching,single_codeword,902,0.623229
+Correlation matching,single_codeword,903,199.257025
+Correlation matching,single_codeword,904,200.170149
+Correlation matching,single_codeword,905,199.867182
+Correlation matching,single_codeword,906,200.192918
+Correlation matching,single_codeword,907,299.887538
+Correlation matching,single_codeword,908,199.885955
+Correlation matching,single_codeword,909,199.990932
+Correlation matching,single_codeword,910,200.026444
+Correlation matching,single_codeword,911,299.874527
+Correlation matching,single_codeword,912,200.086506
+Correlation matching,single_codeword,913,300.084764
+Correlation matching,single_codeword,914,199.883458
+Correlation matching,single_codeword,915,300.056683
+Correlation matching,single_codeword,916,99.892117
+Correlation matching,single_codeword,917,399.938186
+Correlation matching,single_codeword,918,99.942004
+Correlation matching,single_codeword,919,400.12037
+Correlation matching,single_codeword,920,101.563776
+Correlation matching,single_codeword,921,298.43837
+Correlation matching,single_codeword,922,299.926658
+Correlation matching,single_codeword,923,99.963423
+Correlation matching,single_codeword,924,300.036636
+Correlation matching,single_codeword,925,200.089988
+Correlation matching,single_codeword,926,199.935362
+Correlation matching,single_codeword,927,300.087077
+Correlation matching,single_codeword,928,200.065834
+Correlation matching,single_codeword,929,299.872482
+Correlation matching,single_codeword,930,99.862954
+Correlation matching,single_codeword,931,399.951558
+Correlation matching,single_codeword,932,100.299136
+Correlation matching,single_codeword,933,399.780348
+Correlation matching,single_codeword,934,100.08758
+Correlation matching,single_codeword,935,300.016105
+Correlation matching,single_codeword,936,300.04659
+Correlation matching,single_codeword,937,0.477041
+Correlation matching,single_codeword,938,199.552728
+Correlation matching,single_codeword,939,299.710268
+Correlation matching,single_codeword,940,100.015874
+Correlation matching,single_codeword,941,300.110963
+Correlation matching,single_codeword,942,199.974095
+Correlation matching,single_codeword,943,199.969564
+Correlation matching,single_codeword,944,300.065481
+Correlation matching,single_codeword,945,300.002965
+Correlation matching,single_codeword,946,0.536922
+Correlation matching,single_codeword,947,199.401862
+Correlation matching,single_codeword,948,299.997732
+Correlation matching,single_codeword,949,99.875977
+Correlation matching,single_codeword,950,200.302489
+Correlation matching,single_codeword,951,299.794701
+Correlation matching,single_codeword,952,100.097374
+Correlation matching,single_codeword,953,299.94774
+Correlation matching,single_codeword,954,300.276588
+Correlation matching,single_codeword,955,199.72683
+Correlation matching,single_codeword,956,200.127351
+Correlation matching,single_codeword,957,299.859034
+Correlation matching,single_codeword,958,200.10001
+Correlation matching,single_codeword,959,199.949894
+Correlation matching,single_codeword,960,199.927171
+Correlation matching,single_codeword,961,200.221409
+Correlation matching,single_codeword,962,299.868183
+Correlation matching,single_codeword,963,200.071574
+Correlation matching,single_codeword,964,201.393663
+Correlation matching,single_codeword,965,198.423881
+Correlation matching,single_codeword,966,299.917458
+Correlation matching,single_codeword,967,300.106701
+Correlation matching,single_codeword,968,99.967784
+Correlation matching,single_codeword,969,300.11905
+Correlation matching,single_codeword,970,299.846426
+Correlation matching,single_codeword,971,199.908368
+Correlation matching,single_codeword,972,200.157601
+Correlation matching,single_codeword,973,299.823825
+Correlation matching,single_codeword,974,200.041677
+Correlation matching,single_codeword,975,300.046962
+Correlation matching,single_codeword,976,99.982399
+Correlation matching,single_codeword,977,400.004633
+Correlation matching,single_codeword,978,99.997518
+Correlation matching,single_codeword,979,300.203418
+Correlation matching,single_codeword,980,299.618145
+Correlation matching,single_codeword,981,300.000476
+Correlation matching,single_codeword,982,0.567974
+Correlation matching,single_codeword,983,199.55255
+Correlation matching,single_codeword,984,300.029767
+Correlation matching,single_codeword,985,100.007343
+Correlation matching,single_codeword,986,300.201706
+Correlation matching,single_codeword,987,199.821559
+Correlation matching,single_codeword,988,299.88282
+Correlation matching,single_codeword,989,99.996136
+Correlation matching,single_codeword,990,300.006848
+Correlation matching,single_codeword,991,199.862249
+Correlation matching,single_codeword,992,300.219474
+Correlation matching,single_codeword,993,199.794032
+Correlation matching,single_codeword,994,399.95082
+Correlation matching,single_codeword,995,1.733428
+Correlation matching,single_codeword,996,398.663669
+Correlation matching,single_codeword,997,199.608571
+Correlation matching,single_codeword,998,200.074891
+Correlation matching,single_codeword,999,299.971465
+Ours,single_codeword,0,0.005345
+Ours,single_codeword,1,0.004816
+Ours,single_codeword,2,0.004815
+Ours,single_codeword,3,0.004619
+Ours,single_codeword,4,0.004745
+Ours,single_codeword,5,0.004848
+Ours,single_codeword,6,0.004564
+Ours,single_codeword,7,0.005283
+Ours,single_codeword,8,0.004797
+Ours,single_codeword,9,0.004803
+Ours,single_codeword,10,0.004678
+Ours,single_codeword,11,0.004682
+Ours,single_codeword,12,0.004869
+Ours,single_codeword,13,0.004438
+Ours,single_codeword,14,0.004702
+Ours,single_codeword,15,0.004667
+Ours,single_codeword,16,0.005032
+Ours,single_codeword,17,0.00467
+Ours,single_codeword,18,0.004971
+Ours,single_codeword,19,0.004796
+Ours,single_codeword,20,0.004798
+Ours,single_codeword,21,0.00426
+Ours,single_codeword,22,0.004991
+Ours,single_codeword,23,0.004792
+Ours,single_codeword,24,0.004581
+Ours,single_codeword,25,0.005096
+Ours,single_codeword,26,0.00451
+Ours,single_codeword,27,0.004709
+Ours,single_codeword,28,0.004829
+Ours,single_codeword,29,0.005182
+Ours,single_codeword,30,0.004503
+Ours,single_codeword,31,0.004447
+Ours,single_codeword,32,0.00467
+Ours,single_codeword,33,0.00493
+Ours,single_codeword,34,0.004967
+Ours,single_codeword,35,0.004734
+Ours,single_codeword,36,0.004761
+Ours,single_codeword,37,0.004479
+Ours,single_codeword,38,0.004864
+Ours,single_codeword,39,0.004525
+Ours,single_codeword,40,0.005513
+Ours,single_codeword,41,0.005053
+Ours,single_codeword,42,0.004806
+Ours,single_codeword,43,0.005279
+Ours,single_codeword,44,0.004648
+Ours,single_codeword,45,0.00495
+Ours,single_codeword,46,0.004452
+Ours,single_codeword,47,0.004896
+Ours,single_codeword,48,0.004968
+Ours,single_codeword,49,0.00522
+Ours,single_codeword,50,0.004992
+Ours,single_codeword,51,0.004458
+Ours,single_codeword,52,0.004621
+Ours,single_codeword,53,0.004693
+Ours,single_codeword,54,0.005031
+Ours,single_codeword,55,0.004807
+Ours,single_codeword,56,0.004996
+Ours,single_codeword,57,0.005163
+Ours,single_codeword,58,0.004674
+Ours,single_codeword,59,0.005278
+Ours,single_codeword,60,0.004717
+Ours,single_codeword,61,0.005029
+Ours,single_codeword,62,0.004538
+Ours,single_codeword,63,0.004695
+Ours,single_codeword,64,0.004987
+Ours,single_codeword,65,0.005098
+Ours,single_codeword,66,0.004793
+Ours,single_codeword,67,0.00471
+Ours,single_codeword,68,0.004954
+Ours,single_codeword,69,0.004717
+Ours,single_codeword,70,0.004786
+Ours,single_codeword,71,0.005035
+Ours,single_codeword,72,0.005138
+Ours,single_codeword,73,0.005095
+Ours,single_codeword,74,0.005106
+Ours,single_codeword,75,0.004908
+Ours,single_codeword,76,0.004835
+Ours,single_codeword,77,0.004715
+Ours,single_codeword,78,0.004819
+Ours,single_codeword,79,0.005311
+Ours,single_codeword,80,0.005076
+Ours,single_codeword,81,0.005028
+Ours,single_codeword,82,0.004458
+Ours,single_codeword,83,0.004737
+Ours,single_codeword,84,0.004651
+Ours,single_codeword,85,0.004793
+Ours,single_codeword,86,0.005068
+Ours,single_codeword,87,0.00492
+Ours,single_codeword,88,0.005192
+Ours,single_codeword,89,0.00466
+Ours,single_codeword,90,0.004989
+Ours,single_codeword,91,0.004817
+Ours,single_codeword,92,0.004736
+Ours,single_codeword,93,0.004839
+Ours,single_codeword,94,0.004889
+Ours,single_codeword,95,0.004782
+Ours,single_codeword,96,0.004922
+Ours,single_codeword,97,0.004554
+Ours,single_codeword,98,0.004732
+Ours,single_codeword,99,0.004519
+Ours,single_codeword,100,0.004521
+Ours,single_codeword,101,0.004776
+Ours,single_codeword,102,0.004618
+Ours,single_codeword,103,0.0046
+Ours,single_codeword,104,0.004799
+Ours,single_codeword,105,0.005065
+Ours,single_codeword,106,0.004566
+Ours,single_codeword,107,0.005095
+Ours,single_codeword,108,0.004505
+Ours,single_codeword,109,0.004941
+Ours,single_codeword,110,0.005014
+Ours,single_codeword,111,0.005045
+Ours,single_codeword,112,0.004634
+Ours,single_codeword,113,0.004591
+Ours,single_codeword,114,0.00488
+Ours,single_codeword,115,0.004861
+Ours,single_codeword,116,0.004842
+Ours,single_codeword,117,0.005078
+Ours,single_codeword,118,0.004587
+Ours,single_codeword,119,0.00489
+Ours,single_codeword,120,0.005312
+Ours,single_codeword,121,0.004655
+Ours,single_codeword,122,0.004621
+Ours,single_codeword,123,0.005009
+Ours,single_codeword,124,0.004704
+Ours,single_codeword,125,0.004971
+Ours,single_codeword,126,0.004884
+Ours,single_codeword,127,0.004474
+Ours,single_codeword,128,0.004727
+Ours,single_codeword,129,0.004631
+Ours,single_codeword,130,0.004804
+Ours,single_codeword,131,0.004909
+Ours,single_codeword,132,0.00481
+Ours,single_codeword,133,0.004707
+Ours,single_codeword,134,0.004873
+Ours,single_codeword,135,0.005072
+Ours,single_codeword,136,0.004829
+Ours,single_codeword,137,0.005211
+Ours,single_codeword,138,0.005619
+Ours,single_codeword,139,0.005175
+Ours,single_codeword,140,0.004801
+Ours,single_codeword,141,0.004956
+Ours,single_codeword,142,0.004626
+Ours,single_codeword,143,0.00512
+Ours,single_codeword,144,0.004979
+Ours,single_codeword,145,0.005163
+Ours,single_codeword,146,0.004554
+Ours,single_codeword,147,0.004356
+Ours,single_codeword,148,0.004716
+Ours,single_codeword,149,0.004763
+Ours,single_codeword,150,0.005166
+Ours,single_codeword,151,0.004775
+Ours,single_codeword,152,0.004931
+Ours,single_codeword,153,0.004618
+Ours,single_codeword,154,0.005088
+Ours,single_codeword,155,0.005013
+Ours,single_codeword,156,0.004919
+Ours,single_codeword,157,0.00447
+Ours,single_codeword,158,0.004659
+Ours,single_codeword,159,0.004878
+Ours,single_codeword,160,0.004874
+Ours,single_codeword,161,0.004851
+Ours,single_codeword,162,0.004809
+Ours,single_codeword,163,0.004927
+Ours,single_codeword,164,0.005157
+Ours,single_codeword,165,0.005317
+Ours,single_codeword,166,0.005582
+Ours,single_codeword,167,0.00561
+Ours,single_codeword,168,0.004851
+Ours,single_codeword,169,0.005034
+Ours,single_codeword,170,0.005258
+Ours,single_codeword,171,0.00495
+Ours,single_codeword,172,0.005096
+Ours,single_codeword,173,0.005025
+Ours,single_codeword,174,0.004985
+Ours,single_codeword,175,0.004471
+Ours,single_codeword,176,0.004791
+Ours,single_codeword,177,0.004572
+Ours,single_codeword,178,0.004957
+Ours,single_codeword,179,0.005293
+Ours,single_codeword,180,0.004619
+Ours,single_codeword,181,0.004607
+Ours,single_codeword,182,0.004999
+Ours,single_codeword,183,0.004654
+Ours,single_codeword,184,0.004785
+Ours,single_codeword,185,0.00509
+Ours,single_codeword,186,0.004809
+Ours,single_codeword,187,0.004866
+Ours,single_codeword,188,0.004795
+Ours,single_codeword,189,0.004947
+Ours,single_codeword,190,0.004597
+Ours,single_codeword,191,0.004908
+Ours,single_codeword,192,0.004415
+Ours,single_codeword,193,0.004568
+Ours,single_codeword,194,0.004627
+Ours,single_codeword,195,0.004605
+Ours,single_codeword,196,0.004623
+Ours,single_codeword,197,0.004871
+Ours,single_codeword,198,0.004782
+Ours,single_codeword,199,0.00466
+Ours,single_codeword,200,0.004882
+Ours,single_codeword,201,0.004827
+Ours,single_codeword,202,0.004497
+Ours,single_codeword,203,0.00487
+Ours,single_codeword,204,0.004612
+Ours,single_codeword,205,0.004502
+Ours,single_codeword,206,0.005425
+Ours,single_codeword,207,0.004833
+Ours,single_codeword,208,0.004913
+Ours,single_codeword,209,0.005078
+Ours,single_codeword,210,0.004531
+Ours,single_codeword,211,0.005316
+Ours,single_codeword,212,0.00454
+Ours,single_codeword,213,0.005079
+Ours,single_codeword,214,0.005083
+Ours,single_codeword,215,0.005108
+Ours,single_codeword,216,0.004972
+Ours,single_codeword,217,0.004719
+Ours,single_codeword,218,0.004523
+Ours,single_codeword,219,0.004645
+Ours,single_codeword,220,0.004882
+Ours,single_codeword,221,0.004876
+Ours,single_codeword,222,0.004619
+Ours,single_codeword,223,0.004818
+Ours,single_codeword,224,0.004764
+Ours,single_codeword,225,0.005149
+Ours,single_codeword,226,0.004767
+Ours,single_codeword,227,0.004993
+Ours,single_codeword,228,0.005201
+Ours,single_codeword,229,0.00497
+Ours,single_codeword,230,0.005288
+Ours,single_codeword,231,0.0052
+Ours,single_codeword,232,0.005251
+Ours,single_codeword,233,0.004814
+Ours,single_codeword,234,0.004688
+Ours,single_codeword,235,0.004702
+Ours,single_codeword,236,0.004908
+Ours,single_codeword,237,0.004979
+Ours,single_codeword,238,0.004769
+Ours,single_codeword,239,0.004949
+Ours,single_codeword,240,0.004979
+Ours,single_codeword,241,0.004445
+Ours,single_codeword,242,0.00461
+Ours,single_codeword,243,0.004702
+Ours,single_codeword,244,0.004805
+Ours,single_codeword,245,0.004701
+Ours,single_codeword,246,0.0047
+Ours,single_codeword,247,0.004866
+Ours,single_codeword,248,0.004758
+Ours,single_codeword,249,0.004409
+Ours,single_codeword,250,0.005938
+Ours,single_codeword,251,0.005166
+Ours,single_codeword,252,0.005738
+Ours,single_codeword,253,0.004672
+Ours,single_codeword,254,0.004764
+Ours,single_codeword,255,0.004811
+Ours,single_codeword,256,0.004746
+Ours,single_codeword,257,0.005269
+Ours,single_codeword,258,0.00496
+Ours,single_codeword,259,0.005128
+Ours,single_codeword,260,0.004785
+Ours,single_codeword,261,0.004762
+Ours,single_codeword,262,0.004662
+Ours,single_codeword,263,0.005124
+Ours,single_codeword,264,0.005019
+Ours,single_codeword,265,0.004941
+Ours,single_codeword,266,0.004669
+Ours,single_codeword,267,0.005162
+Ours,single_codeword,268,0.004637
+Ours,single_codeword,269,0.004831
+Ours,single_codeword,270,0.005209
+Ours,single_codeword,271,0.005058
+Ours,single_codeword,272,0.005066
+Ours,single_codeword,273,0.005155
+Ours,single_codeword,274,0.005392
+Ours,single_codeword,275,0.004844
+Ours,single_codeword,276,0.004822
+Ours,single_codeword,277,0.004773
+Ours,single_codeword,278,0.004869
+Ours,single_codeword,279,0.005044
+Ours,single_codeword,280,0.004841
+Ours,single_codeword,281,0.00479
+Ours,single_codeword,282,0.004677
+Ours,single_codeword,283,0.005061
+Ours,single_codeword,284,0.004951
+Ours,single_codeword,285,0.004409
+Ours,single_codeword,286,0.004528
+Ours,single_codeword,287,0.004721
+Ours,single_codeword,288,0.004925
+Ours,single_codeword,289,0.004723
+Ours,single_codeword,290,0.004746
+Ours,single_codeword,291,0.004644
+Ours,single_codeword,292,0.004948
+Ours,single_codeword,293,0.004617
+Ours,single_codeword,294,0.004561
+Ours,single_codeword,295,0.004944
+Ours,single_codeword,296,0.004808
+Ours,single_codeword,297,0.005722
+Ours,single_codeword,298,0.005464
+Ours,single_codeword,299,0.005356
+Ours,single_codeword,300,0.004447
+Ours,single_codeword,301,0.004879
+Ours,single_codeword,302,0.004878
+Ours,single_codeword,303,0.004582
+Ours,single_codeword,304,0.005287
+Ours,single_codeword,305,0.004934
+Ours,single_codeword,306,0.005031
+Ours,single_codeword,307,0.004734
+Ours,single_codeword,308,0.004729
+Ours,single_codeword,309,0.004823
+Ours,single_codeword,310,0.004804
+Ours,single_codeword,311,0.005062
+Ours,single_codeword,312,0.005037
+Ours,single_codeword,313,0.004766
+Ours,single_codeword,314,0.005317
+Ours,single_codeword,315,0.0048
+Ours,single_codeword,316,0.005036
+Ours,single_codeword,317,0.004647
+Ours,single_codeword,318,0.004525
+Ours,single_codeword,319,0.004976
+Ours,single_codeword,320,0.004804
+Ours,single_codeword,321,0.004882
+Ours,single_codeword,322,0.005124
+Ours,single_codeword,323,0.004926
+Ours,single_codeword,324,0.005271
+Ours,single_codeword,325,0.004839
+Ours,single_codeword,326,0.005403
+Ours,single_codeword,327,0.005202
+Ours,single_codeword,328,0.005364
+Ours,single_codeword,329,0.004787
+Ours,single_codeword,330,0.004891
+Ours,single_codeword,331,0.004505
+Ours,single_codeword,332,0.005126
+Ours,single_codeword,333,0.004943
+Ours,single_codeword,334,0.005047
+Ours,single_codeword,335,0.004839
+Ours,single_codeword,336,0.004618
+Ours,single_codeword,337,0.004718
+Ours,single_codeword,338,0.004829
+Ours,single_codeword,339,0.005216
+Ours,single_codeword,340,0.004625
+Ours,single_codeword,341,0.004935
+Ours,single_codeword,342,0.004792
+Ours,single_codeword,343,0.004672
+Ours,single_codeword,344,0.004931
+Ours,single_codeword,345,0.005006
+Ours,single_codeword,346,0.004877
+Ours,single_codeword,347,0.005098
+Ours,single_codeword,348,0.004479
+Ours,single_codeword,349,0.004863
+Ours,single_codeword,350,0.00469
+Ours,single_codeword,351,0.004958
+Ours,single_codeword,352,0.004949
+Ours,single_codeword,353,0.004866
+Ours,single_codeword,354,0.005016
+Ours,single_codeword,355,0.005075
+Ours,single_codeword,356,0.004989
+Ours,single_codeword,357,0.005486
+Ours,single_codeword,358,0.005942
+Ours,single_codeword,359,0.004605
+Ours,single_codeword,360,0.005018
+Ours,single_codeword,361,0.004598
+Ours,single_codeword,362,0.005018
+Ours,single_codeword,363,0.004786
+Ours,single_codeword,364,0.0051
+Ours,single_codeword,365,0.004957
+Ours,single_codeword,366,0.004494
+Ours,single_codeword,367,0.004959
+Ours,single_codeword,368,0.004702
+Ours,single_codeword,369,0.005117
+Ours,single_codeword,370,0.004979
+Ours,single_codeword,371,0.005093
+Ours,single_codeword,372,0.00469
+Ours,single_codeword,373,0.005282
+Ours,single_codeword,374,0.00479
+Ours,single_codeword,375,0.004981
+Ours,single_codeword,376,0.004516
+Ours,single_codeword,377,0.00469
+Ours,single_codeword,378,0.004926
+Ours,single_codeword,379,0.005029
+Ours,single_codeword,380,0.005055
+Ours,single_codeword,381,0.004692
+Ours,single_codeword,382,0.004908
+Ours,single_codeword,383,0.004948
+Ours,single_codeword,384,0.005403
+Ours,single_codeword,385,0.004981
+Ours,single_codeword,386,0.005705
+Ours,single_codeword,387,0.004679
+Ours,single_codeword,388,0.004959
+Ours,single_codeword,389,0.004656
+Ours,single_codeword,390,0.004964
+Ours,single_codeword,391,0.004904
+Ours,single_codeword,392,0.005191
+Ours,single_codeword,393,0.004865
+Ours,single_codeword,394,0.004436
+Ours,single_codeword,395,0.004856
+Ours,single_codeword,396,0.004863
+Ours,single_codeword,397,0.005015
+Ours,single_codeword,398,96.183967
+Ours,single_codeword,399,0.033331
+Ours,single_codeword,400,0.003973
+Ours,single_codeword,401,0.003264
+Ours,single_codeword,402,0.002809
+Ours,single_codeword,403,0.002805
+Ours,single_codeword,404,0.002806
+Ours,single_codeword,405,0.002773
+Ours,single_codeword,406,0.00278
+Ours,single_codeword,407,0.002794
+Ours,single_codeword,408,0.002759
+Ours,single_codeword,409,0.002724
+Ours,single_codeword,410,0.002712
+Ours,single_codeword,411,0.002755
+Ours,single_codeword,412,0.002761
+Ours,single_codeword,413,0.002751
+Ours,single_codeword,414,0.002734
+Ours,single_codeword,415,0.002752
+Ours,single_codeword,416,0.00276
+Ours,single_codeword,417,0.002747
+Ours,single_codeword,418,0.002745
+Ours,single_codeword,419,0.002749
+Ours,single_codeword,420,0.00273
+Ours,single_codeword,421,0.002692
+Ours,single_codeword,422,0.002707
+Ours,single_codeword,423,0.002721
+Ours,single_codeword,424,0.002754
+Ours,single_codeword,425,0.002713
+Ours,single_codeword,426,0.002726
+Ours,single_codeword,427,0.002725
+Ours,single_codeword,428,0.002726
+Ours,single_codeword,429,0.002722
+Ours,single_codeword,430,0.002736
+Ours,single_codeword,431,0.002733
+Ours,single_codeword,432,0.002758
+Ours,single_codeword,433,0.002744
+Ours,single_codeword,434,0.002759
+Ours,single_codeword,435,0.00275
+Ours,single_codeword,436,0.002792
+Ours,single_codeword,437,0.002757
+Ours,single_codeword,438,0.002757
+Ours,single_codeword,439,0.002765
+Ours,single_codeword,440,0.002756
+Ours,single_codeword,441,0.002753
+Ours,single_codeword,442,0.002726
+Ours,single_codeword,443,0.00274
+Ours,single_codeword,444,0.002737
+Ours,single_codeword,445,0.002756
+Ours,single_codeword,446,0.002746
+Ours,single_codeword,447,0.002738
+Ours,single_codeword,448,0.00278
+Ours,single_codeword,449,0.00277
+Ours,single_codeword,450,0.002756
+Ours,single_codeword,451,0.002714
+Ours,single_codeword,452,0.002749
+Ours,single_codeword,453,0.002753
+Ours,single_codeword,454,0.002741
+Ours,single_codeword,455,0.003803
+Ours,single_codeword,456,0.00267
+Ours,single_codeword,457,0.002676
+Ours,single_codeword,458,0.002627
+Ours,single_codeword,459,0.002655
+Ours,single_codeword,460,0.00265
+Ours,single_codeword,461,0.002682
+Ours,single_codeword,462,0.002643
+Ours,single_codeword,463,0.002644
+Ours,single_codeword,464,0.002654
+Ours,single_codeword,465,0.002681
+Ours,single_codeword,466,0.002629
+Ours,single_codeword,467,0.00264
+Ours,single_codeword,468,0.002671
+Ours,single_codeword,469,0.002673
+Ours,single_codeword,470,0.002657
+Ours,single_codeword,471,0.002625
+Ours,single_codeword,472,0.002681
+Ours,single_codeword,473,0.00265
+Ours,single_codeword,474,0.002671
+Ours,single_codeword,475,0.002665
+Ours,single_codeword,476,0.002651
+Ours,single_codeword,477,0.002684
+Ours,single_codeword,478,0.002665
+Ours,single_codeword,479,0.002651
+Ours,single_codeword,480,0.002676
+Ours,single_codeword,481,0.002659
+Ours,single_codeword,482,0.002631
+Ours,single_codeword,483,0.002653
+Ours,single_codeword,484,0.002654
+Ours,single_codeword,485,0.002673
+Ours,single_codeword,486,0.002665
+Ours,single_codeword,487,0.002664
+Ours,single_codeword,488,0.002677
+Ours,single_codeword,489,0.002682
+Ours,single_codeword,490,0.002658
+Ours,single_codeword,491,0.002636
+Ours,single_codeword,492,0.002666
+Ours,single_codeword,493,0.002692
+Ours,single_codeword,494,0.00265
+Ours,single_codeword,495,0.002634
+Ours,single_codeword,496,0.00266
+Ours,single_codeword,497,0.002651
+Ours,single_codeword,498,0.002651
+Ours,single_codeword,499,0.002653
+Ours,single_codeword,500,0.002669
+Ours,single_codeword,501,0.002653
+Ours,single_codeword,502,0.002659
+Ours,single_codeword,503,0.00267
+Ours,single_codeword,504,0.00267
+Ours,single_codeword,505,0.002665
+Ours,single_codeword,506,0.00263
+Ours,single_codeword,507,0.002662
+Ours,single_codeword,508,0.002657
+Ours,single_codeword,509,0.002665
+Ours,single_codeword,510,0.002664
+Ours,single_codeword,511,0.002655
+Ours,single_codeword,512,0.002683
+Ours,single_codeword,513,0.002676
+Ours,single_codeword,514,0.002665
+Ours,single_codeword,515,0.002659
+Ours,single_codeword,516,0.00268
+Ours,single_codeword,517,0.002697
+Ours,single_codeword,518,0.00263
+Ours,single_codeword,519,0.002645
+Ours,single_codeword,520,0.002644
+Ours,single_codeword,521,0.002631
+Ours,single_codeword,522,0.002631
+Ours,single_codeword,523,0.002672
+Ours,single_codeword,524,0.002671
+Ours,single_codeword,525,0.002669
+Ours,single_codeword,526,0.002648
+Ours,single_codeword,527,0.002649
+Ours,single_codeword,528,0.002653
+Ours,single_codeword,529,0.00268
+Ours,single_codeword,530,0.002647
+Ours,single_codeword,531,0.002653
+Ours,single_codeword,532,0.002641
+Ours,single_codeword,533,0.002648
+Ours,single_codeword,534,0.002627
+Ours,single_codeword,535,0.002662
+Ours,single_codeword,536,0.002689
+Ours,single_codeword,537,0.002665
+Ours,single_codeword,538,0.002651
+Ours,single_codeword,539,0.002647
+Ours,single_codeword,540,0.00266
+Ours,single_codeword,541,0.002667
+Ours,single_codeword,542,0.002616
+Ours,single_codeword,543,0.002669
+Ours,single_codeword,544,0.002637
+Ours,single_codeword,545,0.002652
+Ours,single_codeword,546,0.002642
+Ours,single_codeword,547,0.002659
+Ours,single_codeword,548,0.002678
+Ours,single_codeword,549,0.002673
+Ours,single_codeword,550,0.002657
+Ours,single_codeword,551,0.002638
+Ours,single_codeword,552,0.002651
+Ours,single_codeword,553,0.002689
+Ours,single_codeword,554,0.002649
+Ours,single_codeword,555,0.002662
+Ours,single_codeword,556,0.002678
+Ours,single_codeword,557,0.002632
+Ours,single_codeword,558,0.002646
+Ours,single_codeword,559,0.002654
+Ours,single_codeword,560,0.002693
+Ours,single_codeword,561,0.002668
+Ours,single_codeword,562,0.00267
+Ours,single_codeword,563,0.002642
+Ours,single_codeword,564,0.002673
+Ours,single_codeword,565,0.002652
+Ours,single_codeword,566,0.002663
+Ours,single_codeword,567,0.002654
+Ours,single_codeword,568,0.002665
+Ours,single_codeword,569,0.002646
+Ours,single_codeword,570,0.002648
+Ours,single_codeword,571,0.002645
+Ours,single_codeword,572,0.002685
+Ours,single_codeword,573,0.002663
+Ours,single_codeword,574,0.002653
+Ours,single_codeword,575,0.002653
+Ours,single_codeword,576,0.002669
+Ours,single_codeword,577,0.002668
+Ours,single_codeword,578,0.002643
+Ours,single_codeword,579,0.00266
+Ours,single_codeword,580,0.002651
+Ours,single_codeword,581,0.002677
+Ours,single_codeword,582,0.002642
+Ours,single_codeword,583,0.002676
+Ours,single_codeword,584,0.002671
+Ours,single_codeword,585,0.002671
+Ours,single_codeword,586,0.002658
+Ours,single_codeword,587,0.002651
+Ours,single_codeword,588,0.002659
+Ours,single_codeword,589,0.002662
+Ours,single_codeword,590,0.002677
+Ours,single_codeword,591,0.002655
+Ours,single_codeword,592,0.002666
+Ours,single_codeword,593,0.002656
+Ours,single_codeword,594,0.002645
+Ours,single_codeword,595,0.002631
+Ours,single_codeword,596,0.002642
+Ours,single_codeword,597,0.002665
+Ours,single_codeword,598,0.002646
+Ours,single_codeword,599,0.002651
+Ours,single_codeword,600,0.002652
+Ours,single_codeword,601,0.002659
+Ours,single_codeword,602,0.002667
+Ours,single_codeword,603,0.002678
+Ours,single_codeword,604,0.002682
+Ours,single_codeword,605,0.002678
+Ours,single_codeword,606,0.002657
+Ours,single_codeword,607,0.002656
+Ours,single_codeword,608,0.002676
+Ours,single_codeword,609,0.002684
+Ours,single_codeword,610,0.002643
+Ours,single_codeword,611,0.002682
+Ours,single_codeword,612,0.002691
+Ours,single_codeword,613,0.002668
+Ours,single_codeword,614,0.002646
+Ours,single_codeword,615,0.002663
+Ours,single_codeword,616,0.002667
+Ours,single_codeword,617,0.002682
+Ours,single_codeword,618,0.002655
+Ours,single_codeword,619,0.002646
+Ours,single_codeword,620,0.002661
+Ours,single_codeword,621,0.002678
+Ours,single_codeword,622,0.00266
+Ours,single_codeword,623,0.002655
+Ours,single_codeword,624,0.00266
+Ours,single_codeword,625,0.002666
+Ours,single_codeword,626,0.002665
+Ours,single_codeword,627,0.002658
+Ours,single_codeword,628,0.00267
+Ours,single_codeword,629,0.002652
+Ours,single_codeword,630,0.002653
+Ours,single_codeword,631,0.002634
+Ours,single_codeword,632,0.002657
+Ours,single_codeword,633,0.002672
+Ours,single_codeword,634,0.00264
+Ours,single_codeword,635,0.002645
+Ours,single_codeword,636,0.002654
+Ours,single_codeword,637,0.002681
+Ours,single_codeword,638,0.002666
+Ours,single_codeword,639,0.002666
+Ours,single_codeword,640,0.002679
+Ours,single_codeword,641,0.002649
+Ours,single_codeword,642,0.002669
+Ours,single_codeword,643,0.002669
+Ours,single_codeword,644,0.002663
+Ours,single_codeword,645,0.002659
+Ours,single_codeword,646,0.002643
+Ours,single_codeword,647,0.002642
+Ours,single_codeword,648,0.002677
+Ours,single_codeword,649,0.002685
+Ours,single_codeword,650,0.002644
+Ours,single_codeword,651,0.00265
+Ours,single_codeword,652,0.002655
+Ours,single_codeword,653,0.002668
+Ours,single_codeword,654,0.002658
+Ours,single_codeword,655,0.00264
+Ours,single_codeword,656,0.002674
+Ours,single_codeword,657,0.002636
+Ours,single_codeword,658,0.002641
+Ours,single_codeword,659,0.002639
+Ours,single_codeword,660,0.002667
+Ours,single_codeword,661,0.00266
+Ours,single_codeword,662,0.002663
+Ours,single_codeword,663,0.002656
+Ours,single_codeword,664,0.002661
+Ours,single_codeword,665,0.002666
+Ours,single_codeword,666,0.002651
+Ours,single_codeword,667,0.002629
+Ours,single_codeword,668,0.002665
+Ours,single_codeword,669,0.002661
+Ours,single_codeword,670,0.002679
+Ours,single_codeword,671,0.002658
+Ours,single_codeword,672,0.002655
+Ours,single_codeword,673,0.002805
+Ours,single_codeword,674,0.002664
+Ours,single_codeword,675,0.00267
+Ours,single_codeword,676,0.002646
+Ours,single_codeword,677,0.002694
+Ours,single_codeword,678,0.002663
+Ours,single_codeword,679,0.002659
+Ours,single_codeword,680,0.00265
+Ours,single_codeword,681,0.002671
+Ours,single_codeword,682,0.002651
+Ours,single_codeword,683,0.002632
+Ours,single_codeword,684,0.002649
+Ours,single_codeword,685,0.002655
+Ours,single_codeword,686,0.002602
+Ours,single_codeword,687,0.002637
+Ours,single_codeword,688,0.002678
+Ours,single_codeword,689,0.002649
+Ours,single_codeword,690,0.002649
+Ours,single_codeword,691,0.002642
+Ours,single_codeword,692,0.002656
+Ours,single_codeword,693,0.00263
+Ours,single_codeword,694,0.002654
+Ours,single_codeword,695,0.002629
+Ours,single_codeword,696,0.002667
+Ours,single_codeword,697,0.002664
+Ours,single_codeword,698,0.002652
+Ours,single_codeword,699,0.00266
+Ours,single_codeword,700,0.00267
+Ours,single_codeword,701,0.002651
+Ours,single_codeword,702,0.002656
+Ours,single_codeword,703,0.002625
+Ours,single_codeword,704,0.002629
+Ours,single_codeword,705,0.002659
+Ours,single_codeword,706,0.002642
+Ours,single_codeword,707,0.002669
+Ours,single_codeword,708,0.002675
+Ours,single_codeword,709,0.002648
+Ours,single_codeword,710,0.002658
+Ours,single_codeword,711,0.002647
+Ours,single_codeword,712,0.002669
+Ours,single_codeword,713,0.002661
+Ours,single_codeword,714,0.002659
+Ours,single_codeword,715,0.00262
+Ours,single_codeword,716,0.002652
+Ours,single_codeword,717,0.002634
+Ours,single_codeword,718,0.002628
+Ours,single_codeword,719,0.002637
+Ours,single_codeword,720,0.002654
+Ours,single_codeword,721,0.002648
+Ours,single_codeword,722,0.002659
+Ours,single_codeword,723,0.002657
+Ours,single_codeword,724,0.002662
+Ours,single_codeword,725,0.00268
+Ours,single_codeword,726,0.002659
+Ours,single_codeword,727,0.00266
+Ours,single_codeword,728,0.002664
+Ours,single_codeword,729,0.002672
+Ours,single_codeword,730,0.002618
+Ours,single_codeword,731,0.002621
+Ours,single_codeword,732,0.002647
+Ours,single_codeword,733,0.002669
+Ours,single_codeword,734,0.002641
+Ours,single_codeword,735,0.002665
+Ours,single_codeword,736,0.002653
+Ours,single_codeword,737,0.00267
+Ours,single_codeword,738,0.002633
+Ours,single_codeword,739,0.002643
+Ours,single_codeword,740,0.002656
+Ours,single_codeword,741,0.002662
+Ours,single_codeword,742,0.002654
+Ours,single_codeword,743,0.002662
+Ours,single_codeword,744,0.00267
+Ours,single_codeword,745,0.002649
+Ours,single_codeword,746,0.002645
+Ours,single_codeword,747,0.002637
+Ours,single_codeword,748,0.002662
+Ours,single_codeword,749,0.002652
+Ours,single_codeword,750,0.002658
+Ours,single_codeword,751,0.002644
+Ours,single_codeword,752,0.002679
+Ours,single_codeword,753,0.00266
+Ours,single_codeword,754,0.002665
+Ours,single_codeword,755,0.002656
+Ours,single_codeword,756,0.002687
+Ours,single_codeword,757,0.002694
+Ours,single_codeword,758,0.002659
+Ours,single_codeword,759,0.002668
+Ours,single_codeword,760,0.002663
+Ours,single_codeword,761,0.002669
+Ours,single_codeword,762,0.00266
+Ours,single_codeword,763,0.002658
+Ours,single_codeword,764,0.002666
+Ours,single_codeword,765,0.002689
+Ours,single_codeword,766,0.002665
+Ours,single_codeword,767,0.002659
+Ours,single_codeword,768,0.002688
+Ours,single_codeword,769,0.002634
+Ours,single_codeword,770,0.002667
+Ours,single_codeword,771,0.002662
+Ours,single_codeword,772,0.00268
+Ours,single_codeword,773,0.002614
+Ours,single_codeword,774,0.002655
+Ours,single_codeword,775,0.002655
+Ours,single_codeword,776,0.002663
+Ours,single_codeword,777,0.002698
+Ours,single_codeword,778,0.002655
+Ours,single_codeword,779,0.002654
+Ours,single_codeword,780,0.002676
+Ours,single_codeword,781,0.002664
+Ours,single_codeword,782,0.002671
+Ours,single_codeword,783,0.002668
+Ours,single_codeword,784,0.002692
+Ours,single_codeword,785,0.002664
+Ours,single_codeword,786,0.002665
+Ours,single_codeword,787,0.002666
+Ours,single_codeword,788,0.00268
+Ours,single_codeword,789,0.002629
+Ours,single_codeword,790,0.002659
+Ours,single_codeword,791,0.00267
+Ours,single_codeword,792,0.00267
+Ours,single_codeword,793,0.002638
+Ours,single_codeword,794,0.002647
+Ours,single_codeword,795,0.002669
+Ours,single_codeword,796,0.002678
+Ours,single_codeword,797,0.002633
+Ours,single_codeword,798,0.002645
+Ours,single_codeword,799,0.002647
+Ours,single_codeword,800,0.002658
+Ours,single_codeword,801,0.002675
+Ours,single_codeword,802,0.002629
+Ours,single_codeword,803,0.002638
+Ours,single_codeword,804,0.002664
+Ours,single_codeword,805,0.002671
+Ours,single_codeword,806,0.002652
+Ours,single_codeword,807,0.002657
+Ours,single_codeword,808,0.002655
+Ours,single_codeword,809,0.002651
+Ours,single_codeword,810,0.002639
+Ours,single_codeword,811,0.002662
+Ours,single_codeword,812,0.002659
+Ours,single_codeword,813,0.002673
+Ours,single_codeword,814,0.002637
+Ours,single_codeword,815,0.002631
+Ours,single_codeword,816,0.002645
+Ours,single_codeword,817,0.00266
+Ours,single_codeword,818,0.002615
+Ours,single_codeword,819,0.002666
+Ours,single_codeword,820,0.002691
+Ours,single_codeword,821,0.002673
+Ours,single_codeword,822,0.002685
+Ours,single_codeword,823,0.002653
+Ours,single_codeword,824,0.002673
+Ours,single_codeword,825,0.002669
+Ours,single_codeword,826,0.002634
+Ours,single_codeword,827,0.002644
+Ours,single_codeword,828,0.002684
+Ours,single_codeword,829,0.002632
+Ours,single_codeword,830,0.002647
+Ours,single_codeword,831,0.002657
+Ours,single_codeword,832,0.002684
+Ours,single_codeword,833,0.002679
+Ours,single_codeword,834,0.002653
+Ours,single_codeword,835,0.002681
+Ours,single_codeword,836,0.002638
+Ours,single_codeword,837,0.002665
+Ours,single_codeword,838,0.002646
+Ours,single_codeword,839,0.00264
+Ours,single_codeword,840,0.002665
+Ours,single_codeword,841,0.002671
+Ours,single_codeword,842,0.002662
+Ours,single_codeword,843,0.002653
+Ours,single_codeword,844,0.00265
+Ours,single_codeword,845,0.002655
+Ours,single_codeword,846,0.002636
+Ours,single_codeword,847,0.002672
+Ours,single_codeword,848,0.002664
+Ours,single_codeword,849,0.002651
+Ours,single_codeword,850,0.002647
+Ours,single_codeword,851,0.002672
+Ours,single_codeword,852,0.002678
+Ours,single_codeword,853,0.00268
+Ours,single_codeword,854,0.002644
+Ours,single_codeword,855,0.002635
+Ours,single_codeword,856,0.002667
+Ours,single_codeword,857,0.002648
+Ours,single_codeword,858,0.002636
+Ours,single_codeword,859,0.002629
+Ours,single_codeword,860,0.002638
+Ours,single_codeword,861,0.00265
+Ours,single_codeword,862,0.002657
+Ours,single_codeword,863,0.002656
+Ours,single_codeword,864,0.002658
+Ours,single_codeword,865,0.00268
+Ours,single_codeword,866,0.002672
+Ours,single_codeword,867,0.002637
+Ours,single_codeword,868,0.002673
+Ours,single_codeword,869,0.002692
+Ours,single_codeword,870,0.00267
+Ours,single_codeword,871,0.002654
+Ours,single_codeword,872,0.002647
+Ours,single_codeword,873,0.002665
+Ours,single_codeword,874,0.002645
+Ours,single_codeword,875,0.002631
+Ours,single_codeword,876,0.00265
+Ours,single_codeword,877,0.002655
+Ours,single_codeword,878,0.002655
+Ours,single_codeword,879,0.002631
+Ours,single_codeword,880,0.002665
+Ours,single_codeword,881,0.00265
+Ours,single_codeword,882,0.002656
+Ours,single_codeword,883,0.002658
+Ours,single_codeword,884,0.002666
+Ours,single_codeword,885,0.002635
+Ours,single_codeword,886,0.002648
+Ours,single_codeword,887,0.002668
+Ours,single_codeword,888,0.002686
+Ours,single_codeword,889,0.002653
+Ours,single_codeword,890,0.002653
+Ours,single_codeword,891,0.002639
+Ours,single_codeword,892,0.002654
+Ours,single_codeword,893,0.002645
+Ours,single_codeword,894,0.002638
+Ours,single_codeword,895,0.002652
+Ours,single_codeword,896,0.002669
+Ours,single_codeword,897,0.002674
+Ours,single_codeword,898,0.002658
+Ours,single_codeword,899,0.002644
+Ours,single_codeword,900,0.002647
+Ours,single_codeword,901,0.002649
+Ours,single_codeword,902,0.002653
+Ours,single_codeword,903,0.002636
+Ours,single_codeword,904,0.002663
+Ours,single_codeword,905,0.002637
+Ours,single_codeword,906,0.002619
+Ours,single_codeword,907,0.002655
+Ours,single_codeword,908,0.002673
+Ours,single_codeword,909,0.002667
+Ours,single_codeword,910,0.002674
+Ours,single_codeword,911,0.002654
+Ours,single_codeword,912,0.002662
+Ours,single_codeword,913,0.002652
+Ours,single_codeword,914,0.002655
+Ours,single_codeword,915,0.00267
+Ours,single_codeword,916,0.002685
+Ours,single_codeword,917,0.002645
+Ours,single_codeword,918,0.002683
+Ours,single_codeword,919,0.002659
+Ours,single_codeword,920,0.00267
+Ours,single_codeword,921,0.00266
+Ours,single_codeword,922,0.002665
+Ours,single_codeword,923,0.002673
+Ours,single_codeword,924,0.002689
+Ours,single_codeword,925,0.002645
+Ours,single_codeword,926,0.002655
+Ours,single_codeword,927,0.002653
+Ours,single_codeword,928,0.002672
+Ours,single_codeword,929,0.002652
+Ours,single_codeword,930,0.002678
+Ours,single_codeword,931,0.002658
+Ours,single_codeword,932,0.002692
+Ours,single_codeword,933,0.002619
+Ours,single_codeword,934,0.002624
+Ours,single_codeword,935,0.002645
+Ours,single_codeword,936,0.002676
+Ours,single_codeword,937,0.002643
+Ours,single_codeword,938,0.002669
+Ours,single_codeword,939,0.002653
+Ours,single_codeword,940,0.002644
+Ours,single_codeword,941,0.002663
+Ours,single_codeword,942,0.002633
+Ours,single_codeword,943,0.002659
+Ours,single_codeword,944,0.002664
+Ours,single_codeword,945,0.002665
+Ours,single_codeword,946,0.002642
+Ours,single_codeword,947,0.002645
+Ours,single_codeword,948,0.002641
+Ours,single_codeword,949,0.002653
+Ours,single_codeword,950,0.002649
+Ours,single_codeword,951,0.002635
+Ours,single_codeword,952,0.002676
+Ours,single_codeword,953,0.002666
+Ours,single_codeword,954,0.002676
+Ours,single_codeword,955,0.002651
+Ours,single_codeword,956,0.002657
+Ours,single_codeword,957,0.002681
+Ours,single_codeword,958,0.002668
+Ours,single_codeword,959,0.002638
+Ours,single_codeword,960,0.002646
+Ours,single_codeword,961,0.002687
+Ours,single_codeword,962,0.002662
+Ours,single_codeword,963,0.002676
+Ours,single_codeword,964,0.002673
+Ours,single_codeword,965,0.002679
+Ours,single_codeword,966,0.002637
+Ours,single_codeword,967,0.002654
+Ours,single_codeword,968,0.002674
+Ours,single_codeword,969,0.002654
+Ours,single_codeword,970,0.002622
+Ours,single_codeword,971,0.002675
+Ours,single_codeword,972,0.002659
+Ours,single_codeword,973,0.003004
+Ours,single_codeword,974,0.002657
+Ours,single_codeword,975,0.002653
+Ours,single_codeword,976,0.002675
+Ours,single_codeword,977,0.002643
+Ours,single_codeword,978,0.002657
+Ours,single_codeword,979,0.002648
+Ours,single_codeword,980,0.002648
+Ours,single_codeword,981,0.002649
+Ours,single_codeword,982,0.002641
+Ours,single_codeword,983,0.002638
+Ours,single_codeword,984,0.002632
+Ours,single_codeword,985,0.002664
+Ours,single_codeword,986,0.002638
+Ours,single_codeword,987,0.002657
+Ours,single_codeword,988,0.00265
+Ours,single_codeword,989,0.002676
+Ours,single_codeword,990,0.002635
+Ours,single_codeword,991,0.00275
+Ours,single_codeword,992,0.00273
+Ours,single_codeword,993,0.004131
+Ours,single_codeword,994,0.002819
+Ours,single_codeword,995,0.002812
+Ours,single_codeword,996,0.002816
+Ours,single_codeword,997,0.002762
+Ours,single_codeword,998,0.002767
+Ours,single_codeword,999,0.002757
+Correlation matching,one_image,0,2105.991628
+Correlation matching,one_image,1,1596.21876
+Correlation matching,one_image,2,1901.487308
+Correlation matching,one_image,3,1405.270856
+Correlation matching,one_image,4,1492.098152
+Correlation matching,one_image,5,1606.360919
+Correlation matching,one_image,6,1696.676427
+Correlation matching,one_image,7,1503.377831
+Correlation matching,one_image,8,1493.53131
+Correlation matching,one_image,9,1800.574033
+Correlation matching,one_image,10,1507.194679
+Correlation matching,one_image,11,1792.659467
+Correlation matching,one_image,12,1900.089864
+Correlation matching,one_image,13,1599.665437
+Correlation matching,one_image,14,1500.026723
+Correlation matching,one_image,15,1710.950047
+Correlation matching,one_image,16,2396.793953
+Correlation matching,one_image,17,2196.218513
+Correlation matching,one_image,18,1600.594823
+Correlation matching,one_image,19,1896.124296
+Correlation matching,one_image,20,1900.195099
+Correlation matching,one_image,21,1706.852082
+Correlation matching,one_image,22,1897.836909
+Correlation matching,one_image,23,1495.025256
+Correlation matching,one_image,24,1799.641778
+Correlation matching,one_image,25,1499.769211
+Correlation matching,one_image,26,1704.427314
+Correlation matching,one_image,27,1501.774368
+Correlation matching,one_image,28,1497.869347
+Correlation matching,one_image,29,1801.766948
+Correlation matching,one_image,30,1493.880648
+Correlation matching,one_image,31,1800.121022
+Correlation matching,one_image,32,1599.73934
+Correlation matching,one_image,33,1700.235421
+Correlation matching,one_image,34,1705.854909
+Correlation matching,one_image,35,1696.29868
+Correlation matching,one_image,36,1600.370909
+Correlation matching,one_image,37,1698.782536
+Correlation matching,one_image,38,1999.937603
+Correlation matching,one_image,39,1499.705423
+Correlation matching,one_image,40,1603.585146
+Correlation matching,one_image,41,1802.980195
+Correlation matching,one_image,42,1694.058068
+Correlation matching,one_image,43,1403.499673
+Correlation matching,one_image,44,1600.350407
+Correlation matching,one_image,45,2296.933941
+Correlation matching,one_image,46,1498.906094
+Correlation matching,one_image,47,1404.000554
+Correlation matching,one_image,48,1695.480582
+Correlation matching,one_image,49,1400.04038
+Correlation matching,one_image,50,1597.232193
+Correlation matching,one_image,51,1402.1273
+Correlation matching,one_image,52,1607.115638
+Correlation matching,one_image,53,1990.730933
+Correlation matching,one_image,54,1607.538594
+Correlation matching,one_image,55,1801.777014
+Correlation matching,one_image,56,1792.363721
+Correlation matching,one_image,57,1299.499925
+Correlation matching,one_image,58,1702.950738
+Correlation matching,one_image,59,1496.481482
+Correlation matching,one_image,60,1900.691024
+Correlation matching,one_image,61,1603.111238
+Correlation matching,one_image,62,1801.368783
+Correlation matching,one_image,63,1596.141431
+Correlation matching,one_image,64,1799.83575
+Correlation matching,one_image,65,2003.633257
+Correlation matching,one_image,66,1999.137473
+Correlation matching,one_image,67,1796.450885
+Correlation matching,one_image,68,1600.633257
+Correlation matching,one_image,69,1904.390538
+Correlation matching,one_image,70,1501.138859
+Correlation matching,one_image,71,1594.213945
+Correlation matching,one_image,72,1398.387128
+Correlation matching,one_image,73,1701.619493
+Correlation matching,one_image,74,1402.64509
+Correlation matching,one_image,75,1697.514468
+Correlation matching,one_image,76,1602.684463
+Correlation matching,one_image,77,1606.805849
+Correlation matching,one_image,78,1790.414544
+Correlation matching,one_image,79,1205.743592
+Correlation matching,one_image,80,1499.153176
+Correlation matching,one_image,81,1793.218329
+Correlation matching,one_image,82,1604.956761
+Correlation matching,one_image,83,1996.985162
+Correlation matching,one_image,84,1604.378431
+Correlation matching,one_image,85,2095.202046
+Correlation matching,one_image,86,1604.500139
+Correlation matching,one_image,87,2093.92436
+Correlation matching,one_image,88,1501.670331
+Correlation matching,one_image,89,1800.254755
+Correlation matching,one_image,90,1603.020961
+Correlation matching,one_image,91,1502.462104
+Correlation matching,one_image,92,1395.725813
+Correlation matching,one_image,93,1599.758023
+Correlation matching,one_image,94,1300.37155
+Correlation matching,one_image,95,1400.693113
+Correlation matching,one_image,96,1199.434458
+Correlation matching,one_image,97,1300.097131
+Correlation matching,one_image,98,1501.02605
+Correlation matching,one_image,99,1800.483503
+Ours,one_image,0,1.318905
+Ours,one_image,1,1.023487
+Ours,one_image,2,0.872184
+Ours,one_image,3,0.872698
+Ours,one_image,4,0.857508
+Ours,one_image,5,0.858561
+Ours,one_image,6,0.840319
+Ours,one_image,7,0.846667
+Ours,one_image,8,0.856214
+Ours,one_image,9,0.855608
+Ours,one_image,10,0.846251
+Ours,one_image,11,0.839215
+Ours,one_image,12,0.839603
+Ours,one_image,13,0.853353
+Ours,one_image,14,0.865373
+Ours,one_image,15,0.86313
+Ours,one_image,16,0.832717
+Ours,one_image,17,0.839048
+Ours,one_image,18,0.879655
+Ours,one_image,19,0.855211
+Ours,one_image,20,0.855705
+Ours,one_image,21,0.843316
+Ours,one_image,22,0.834107
+Ours,one_image,23,0.834225
+Ours,one_image,24,0.849842
+Ours,one_image,25,0.853344
+Ours,one_image,26,0.838695
+Ours,one_image,27,0.852059
+Ours,one_image,28,0.840865
+Ours,one_image,29,0.853546
+Ours,one_image,30,0.835311
+Ours,one_image,31,0.840739
+Ours,one_image,32,0.835332
+Ours,one_image,33,0.846479
+Ours,one_image,34,0.851383
+Ours,one_image,35,0.855594
+Ours,one_image,36,0.8363
+Ours,one_image,37,0.829297
+Ours,one_image,38,0.849858
+Ours,one_image,39,0.861385
+Ours,one_image,40,0.859147
+Ours,one_image,41,0.845808
+Ours,one_image,42,0.845313
+Ours,one_image,43,0.850318
+Ours,one_image,44,0.837432
+Ours,one_image,45,0.83924
+Ours,one_image,46,0.836103
+Ours,one_image,47,0.844619
+Ours,one_image,48,0.836635
+Ours,one_image,49,0.830993
+Ours,one_image,50,0.842005
+Ours,one_image,51,0.932813
+Ours,one_image,52,53.152214
+Ours,one_image,53,1.803347
+Ours,one_image,54,1.457182
+Ours,one_image,55,0.955456
+Ours,one_image,56,0.872886
+Ours,one_image,57,0.863446
+Ours,one_image,58,0.863033
+Ours,one_image,59,0.892517
+Ours,one_image,60,0.903148
+Ours,one_image,61,0.904896
+Ours,one_image,62,0.897888
+Ours,one_image,63,0.885592
+Ours,one_image,64,0.871249
+Ours,one_image,65,0.8648
+Ours,one_image,66,0.852929
+Ours,one_image,67,0.917146
+Ours,one_image,68,0.862726
+Ours,one_image,69,0.854016
+Ours,one_image,70,0.833061
+Ours,one_image,71,0.841249
+Ours,one_image,72,0.844914
+Ours,one_image,73,0.857707
+Ours,one_image,74,0.856841
+Ours,one_image,75,0.839355
+Ours,one_image,76,0.839147
+Ours,one_image,77,0.967582
+Ours,one_image,78,0.845198
+Ours,one_image,79,0.857365
+Ours,one_image,80,0.840995
+Ours,one_image,81,0.833489
+Ours,one_image,82,0.83666
+Ours,one_image,83,0.83733
+Ours,one_image,84,0.842315
+Ours,one_image,85,0.886238
+Ours,one_image,86,0.834982
+Ours,one_image,87,0.853985
+Ours,one_image,88,0.836115
+Ours,one_image,89,0.83988
+Ours,one_image,90,0.841938
+Ours,one_image,91,0.835516
+Ours,one_image,92,0.842982
+Ours,one_image,93,0.833117
+Ours,one_image,94,0.860178
+Ours,one_image,95,0.912278
+Ours,one_image,96,0.850952
+Ours,one_image,97,0.84049
+Ours,one_image,98,0.836768
+Ours,one_image,99,0.856744

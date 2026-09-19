@@ -1,0 +1,22 @@
+Secure optical semantic communication — selected research code release
+
+This project incorporates source code from the supplied Promptus project,
+whose LICENSE is Apache License 2.0. The original license is retained.
+Promptus: Can Prompts Streaming Replace Video Streaming with Stable Diffusion
+https://arxiv.org/abs/2405.20032
+
+The research/sgm, research/scripts and research/configs directories are
+upstream support code retained from that snapshot. Original per-file notices
+remain in place. The small detection-head resources belong to the bundled
+upstream inference pipeline; they are not SD-Turbo model checkpoints.
+
+Modifications for this release: portable path defaults, a standalone physical
+codec, validated MATLAB loading, optional PyTorch CPU/CUDA response recovery,
+tests, examples, documentation, and a configurable evaluation leak-count list.
+Source hashes and changes are recorded in docs/source_manifest.json.
+
+The original experimental scripts are credited to the contributing project
+authors. Third-party model weights are not redistributed, and their terms
+are not replaced by the source-code license. Experimental measurements are
+covered separately by DATA_LICENSE.md.
+
