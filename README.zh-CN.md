@@ -2,8 +2,6 @@
 
 本项目对应稿件 **Secure optical semantic communication through reconfigurable fiber responses**。
 
-作者：Jixing Ren、Xuchen Hua（共同第一作者），Hao Wu、Ming Tang（通讯作者）。
-
 ## 最快运行方式
 
 在项目根目录执行：

@@ -2,8 +2,6 @@
 
 Research code for **Secure optical semantic communication through reconfigurable fiber responses**.
 
-**Jixing Ren**, **Xuchen Hua** (equal contribution), **Hao Wu** and **Ming Tang** (corresponding authors), Huazhong University of Science and Technology. Hao Wu and Ming Tang are also affiliated with Hubei Optics Valley Laboratory.
-
 This repository provides a compact, runnable implementation of the physical response codec, measured waveform examples, and the research scripts for image inversion, neural attacks and receiver timing. It is a selected code release, not a complete archive of all paper experiments.
 
 ## What the method does
@@ -83,8 +81,6 @@ Only the selected public sample states are included. Their responses are public 
 The image workflow builds on **Promptus: Can Prompts Streaming Replace Video Streaming with Stable Diffusion** and its bundled generative-model code. The original Apache-2.0 license and notices are retained; see [NOTICE](NOTICE). Model checkpoints have their own licenses. Experimental data reuse is described in [DATA_LICENSE.md](DATA_LICENSE.md).
 
 No journal acceptance, DOI, cryptographic security proof or end-to-end real-time claim is implied by this release.
-
-Correspondence: wuhaoboom@hust.edu.cn; tangming@mail.hust.edu.cn.
 
 中文说明：[README.zh-CN.md](README.zh-CN.md)。
 
